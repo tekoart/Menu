@@ -1,0 +1,279 @@
+<item>
+<title>[B][COLOR red][/COLOR][COLOR white][/COLOR][COLOR red][/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
+</item>
+
+<item>
+<title>CANAL RICOS</title>
+<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>GLOBO</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/600045229415135229746053.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RECORD</title>
+<link>http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w1176395272.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>SBT</title>
+<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BAND</title>
+<link>http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w550411023.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>REDE TV</title>
+<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV CULTURA</title>
+<link>http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvcultura.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RECORD NEWS</title>
+<link>http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?TvFogoHD</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV GAZETA</title>
+<link>http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?TvFogoHD</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV ESCOLA</title>
+<link>http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?TvFogoHD</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tv-escola.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CANÇÃO NOVA</title>
+<link>http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/chunklist_w1492625387.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>REDE APARECIDA</title>
+<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8</link>
+<thumbnail>http://i.imgur.com/rTXcueh.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8</link>
+<thumbnail>http://i.imgur.com/kcxzdPA.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8</link>
+<thumbnail>http://i.imgur.com/Qp5B2ZB.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN EXTRA</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8</link>
+<thumbnail>http://i.imgur.com/TW6ZY5p.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPORTE INTERATIVO</title>
+<link>https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>EI MAXX</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>EI MAX 2</title>
+<link>http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>ALL SPORTS</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/HozFynS.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b832512.m3u8</link>
+<thumbnail>http://i.imgur.com/zNNIALN.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY JR</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b832512.m3u8</link>
+<thumbnail>http://i.imgur.com/H9AY5z4.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8</link>
+<thumbnail>http://i.imgur.com/ETxffjm.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
+</item>
+
+<item>
+<title>CINE SKY</title>
+<link>http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/VDmvAb5.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CINE +</title>
+<link>https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8</link>
+<thumbnail>http://i.imgur.com/ClaFSFI.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CLASSIQUE TV</title>
+<link>http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/EdTZ0ba.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TC PREMIUM</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/966102934980185148321170.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TC ACTION</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/376354853443975531601263.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TC PIPOCA</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/477693043623373564461995.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO2</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/995515746173991975101420.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>TNT SERIES</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX</title>
+<link>http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null</link>
+<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

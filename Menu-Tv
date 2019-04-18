@@ -1,0 +1,33 @@
+<channels>
+</channels>
+<channel>
+<name>[COLOR white][B]SERVIDOR: 1[/B][/COLOR] [COLOR yellow][B][REDECANAIS][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://tv-fogo.github.io/HD/redecanais</externallink>
+<fanart></fanart>
+<info>TV FOGO HD</info>
+</channel>
+<channel>
+<name>[COLOR white][B]SERVIDOR: 2[/B][/COLOR] [COLOR yellow][B][assistirtvonlinegratis][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/play2</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+<channel>
+<name>[COLOR white][B]SERVIDOR: 3[/B][/COLOR] [COLOR yellow][B][Tv Fogo HD][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/Tv-Fogo-HD</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  white][B]DAZN BRASIL [/B][/COLOR][COLOR yellow]FUTEBOL[/COLOR] [COLOR lime](YOUTUBE)[/COLOR]</name>
+<thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo/Tv-Fogo-HD/master/DAZN-BRASIL</externallink>
+<fanart>https://www.sportindustry.biz/sites/default/files/images/news/DAZN%20%26%20PERFORM.png</fanart>
+<info>youtube</info>
+</channel>
+
+
+
