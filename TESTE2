@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/tve2.png" group-title="TV MSN",TELECINE PIPOCA
+plugin://plugin.video.SportsDevil/?mode=1&item=catcher%3dstreams%26url=http://tvonlineaovivo.net/assistir-telecine-pipoca-ao-vivo/%26referer=http://tvonlineaovivo.net/
