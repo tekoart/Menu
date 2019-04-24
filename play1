@@ -1,279 +1,813 @@
-<item>
-<title>[B][COLOR red][/COLOR][COLOR white][/COLOR][COLOR red][/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/LwtXftR.png</thumbnail>
-</item>
-
-<item>
-<title>CANAL RICOS</title>
-<link>http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg</thumbnail>
-<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
-<info></info>
-</item>
-
-<item>
-<title>GLOBO</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/600045229415135229746053.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>RECORD</title>
-<link>http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/chunklist_w1176395272.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/record.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>SBT</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>BAND</title>
-<link>http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w550411023.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/band.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>REDE TV</title>
-<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TV CULTURA</title>
-<link>http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvcultura.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>RECORD NEWS</title>
-<link>http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?TvFogoHD</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TV GAZETA</title>
-<link>http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?TvFogoHD</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvgazeta.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TV ESCOLA</title>
-<link>http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?TvFogoHD</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tv-escola.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>CANÇÃO NOVA</title>
-<link>http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/chunklist_w1492625387.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/can%C3%A7aonova.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>REDE APARECIDA</title>
-<link>http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?TvFogoHD</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yTvUrIr.png</thumbnail>
-</item>
-
-<item>
-<title>ESPN BRASIL</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8</link>
-<thumbnail>http://i.imgur.com/rTXcueh.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>ESPN</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8</link>
-<thumbnail>http://i.imgur.com/kcxzdPA.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>ESPN 2</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8</link>
-<thumbnail>http://i.imgur.com/Qp5B2ZB.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>ESPN EXTRA</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8</link>
-<thumbnail>http://i.imgur.com/TW6ZY5p.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>ESPORTE INTERATIVO</title>
-<link>https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>EI MAXX</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>EI MAX 2</title>
-<link>http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/index_720_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>ALL SPORTS</title>
-<link>http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/HozFynS.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/yrq6JQp.png</thumbnail>
-</item>
-
-<item>
-<title>DISNEY XD</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b832512.m3u8</link>
-<thumbnail>http://i.imgur.com/zNNIALN.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>DISNEY JR</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b832512.m3u8</link>
-<thumbnail>http://i.imgur.com/H9AY5z4.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>DISNEY CHANNEL</title>
-<link>http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8</link>
-<thumbnail>http://i.imgur.com/ETxffjm.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/i0LklQw.png</thumbnail>
-</item>
-
-<item>
-<title>CINE SKY</title>
-<link>http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/VDmvAb5.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>CINE +</title>
-<link>https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8</link>
-<thumbnail>http://i.imgur.com/ClaFSFI.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>CLASSIQUE TV</title>
-<link>http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8</link>
-<thumbnail>http://i.imgur.com/EdTZ0ba.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TC PREMIUM</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/966102934980185148321170.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TC ACTION</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/376354853443975531601263.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TC PIPOCA</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/477693043623373564461995.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>HBO2</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/995515746173991975101420.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>TNT SERIES</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>FOX</title>
-<link>http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null</link>
-<thumbnail>https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+#EXTM3U
+#EXTINF:-1,A&E
+http://streamtv.com.br:80/malek/malek/1667
+#EXTINF:-1,A&E HD
+http://streamtv.com.br:80/malek/malek/233
+#EXTINF:-1,AMC
+http://streamtv.com.br:80/malek/malek/1666
+#EXTINF:-1,AMC HD
+http://streamtv.com.br:80/malek/malek/232
+#EXTINF:-1,ANIMAL PLANET
+http://streamtv.com.br:80/malek/malek/1665
+#EXTINF:-1,ANIMAL PLANET HD
+http://streamtv.com.br:80/malek/malek/231
+#EXTINF:-1,ARTE 1
+http://streamtv.com.br:80/malek/malek/1664
+#EXTINF:-1,ARTE 1 HD
+http://streamtv.com.br:80/malek/malek/230
+#EXTINF:-1,AXN
+http://streamtv.com.br:80/malek/malek/1663
+#EXTINF:-1,AXN HD
+http://streamtv.com.br:80/malek/malek/229
+#EXTINF:-1,BABY TV
+http://streamtv.com.br:80/malek/malek/1662
+#EXTINF:-1,BAND
+http://streamtv.com.br:80/malek/malek/1661
+#EXTINF:-1,BAND HD
+http://streamtv.com.br:80/malek/malek/228
+#EXTINF:-1,BAND NEWS
+http://streamtv.com.br:80/malek/malek/1660
+#EXTINF:-1,BAND NEWS HD
+http://streamtv.com.br:80/malek/malek/227
+#EXTINF:-1,BAND SPORTS
+http://streamtv.com.br:80/malek/malek/1659
+#EXTINF:-1,BAND SPORTS HD
+http://streamtv.com.br:80/malek/malek/226
+#EXTINF:-1,BBB 19
+http://streamtv.com.br:80/malek/malek/13427
+#EXTINF:-1,BBB 19 HD
+http://streamtv.com.br:80/malek/malek/13426
+#EXTINF:-1,BBB 2
+http://streamtv.com.br:80/malek/malek/20052
+#EXTINF:-1,BBB 2 HD
+http://streamtv.com.br:80/malek/malek/20051
+#EXTINF:-1,BIS
+http://streamtv.com.br:80/malek/malek/1658
+#EXTINF:-1,BIS HD
+http://streamtv.com.br:80/malek/malek/224
+#EXTINF:-1,BOA VONTADE
+http://streamtv.com.br:80/malek/malek/1657
+#EXTINF:-1,BOOMERANG
+http://streamtv.com.br:80/malek/malek/1656
+#EXTINF:-1,BOOMERANG HD
+http://streamtv.com.br:80/malek/malek/223
+#EXTINF:-1,CANAL SONY
+http://streamtv.com.br:80/malek/malek/1654
+#EXTINF:-1,CANAL SONY HD
+http://streamtv.com.br:80/malek/malek/221
+#EXTINF:-1,CARTOON NETWORK
+http://streamtv.com.br:80/malek/malek/1652
+#EXTINF:-1,CARTOON NETWORK HD
+http://streamtv.com.br:80/malek/malek/220
+#EXTINF:-1,CINEMAX
+http://streamtv.com.br:80/malek/malek/1651
+#EXTINF:-1,CINEMAX HD
+http://streamtv.com.br:80/malek/malek/219
+#EXTINF:-1,COMBATE
+http://streamtv.com.br:80/malek/malek/1650
+#EXTINF:-1,COMBATE HD
+http://streamtv.com.br:80/malek/malek/218
+#EXTINF:-1,COMEDY CENTRAL
+http://streamtv.com.br:80/malek/malek/1649
+#EXTINF:-1,COMEDY CENTRAL HD
+http://streamtv.com.br:80/malek/malek/217
+#EXTINF:-1,CURTA!
+http://streamtv.com.br:80/malek/malek/1648
+#EXTINF:-1,CURTA! HD
+http://streamtv.com.br:80/malek/malek/216
+#EXTINF:-1,DISCOVERY CHANNEL
+http://streamtv.com.br:80/malek/malek/1647
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://streamtv.com.br:80/malek/malek/215
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://streamtv.com.br:80/malek/malek/1646
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://streamtv.com.br:80/malek/malek/214
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://streamtv.com.br:80/malek/malek/1645
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://streamtv.com.br:80/malek/malek/213
+#EXTINF:-1,DISCOVERY KIDS
+http://streamtv.com.br:80/malek/malek/1644
+#EXTINF:-1,DISCOVERY KIDS HD
+http://streamtv.com.br:80/malek/malek/212
+#EXTINF:-1,DISCOVERY SCIENCE
+http://streamtv.com.br:80/malek/malek/1643
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://streamtv.com.br:80/malek/malek/211
+#EXTINF:-1,DISCOVERY THEATER
+http://streamtv.com.br:80/malek/malek/1642
+#EXTINF:-1,DISCOVERY THEATER HD
+http://streamtv.com.br:80/malek/malek/210
+#EXTINF:-1,DISCOVERY TURBO
+http://streamtv.com.br:80/malek/malek/1641
+#EXTINF:-1,DISCOVERY TURBO HD
+http://streamtv.com.br:80/malek/malek/209
+#EXTINF:-1,DISCOVERY WORLD
+http://streamtv.com.br:80/malek/malek/1640
+#EXTINF:-1,DISCOVERY WORLD  HD
+http://streamtv.com.br:80/malek/malek/208
+#EXTINF:-1,DISNEY CHANNEL
+http://streamtv.com.br:80/malek/malek/1639
+#EXTINF:-1,DISNEY CHANNEL HD
+http://streamtv.com.br:80/malek/malek/207
+#EXTINF:-1,DISNEY JR HD
+http://streamtv.com.br:80/malek/malek/234
+#EXTINF:-1,DISNEY JUNIOR
+http://streamtv.com.br:80/malek/malek/1638
+#EXTINF:-1,DISNEY XD
+http://streamtv.com.br:80/malek/malek/1637
+#EXTINF:-1,E!
+http://streamtv.com.br:80/malek/malek/1635
+#EXTINF:-1,E! HD
+http://streamtv.com.br:80/malek/malek/206
+#EXTINF:-1,ESPN
+http://streamtv.com.br:80/malek/malek/1668
+#EXTINF:-1,ESPN BRASIL
+http://streamtv.com.br:80/malek/malek/1633
+#EXTINF:-1,ESPN BRASIL HD
+http://streamtv.com.br:80/malek/malek/204
+#EXTINF:-1,ESPN EXTRA
+http://streamtv.com.br:80/malek/malek/1632
+#EXTINF:-1,ESPN EXTRA HD
+http://streamtv.com.br:80/malek/malek/726
+#EXTINF:-1,ESPN HD
+http://streamtv.com.br:80/malek/malek/202
+#EXTINF:-1,ESPN+
+http://streamtv.com.br:80/malek/malek/1634
+#EXTINF:-1,ESPN+ HD
+http://streamtv.com.br:80/malek/malek/205
+#EXTINF:-1,PLAYKIDS SD
+http://streamtv.com.br:80/malek/malek/1629
+#EXTINF:-1,PLAYKIDS HD
+http://streamtv.com.br:80/malek/malek/199
+#EXTINF:-1,FISH TV
+http://streamtv.com.br:80/malek/malek/1628
+#EXTINF:-1,FISH TV HD
+http://streamtv.com.br:80/malek/malek/272
+#EXTINF:-1,FOOD NETWORK
+http://streamtv.com.br:80/malek/malek/1627
+#EXTINF:-1,FOOD NETWORK HD
+http://streamtv.com.br:80/malek/malek/198
+#EXTINF:-1,FOX
+http://streamtv.com.br:80/malek/malek/1626
+#EXTINF:-1,FOX HD
+http://streamtv.com.br:80/malek/malek/197
+#EXTINF:-1,FOX LIFE
+http://streamtv.com.br:80/malek/malek/1625
+#EXTINF:-1,FOX LIFE HD
+http://streamtv.com.br:80/malek/malek/196
+#EXTINF:-1,FOX PREMIUM 1
+http://streamtv.com.br:80/malek/malek/1624
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://streamtv.com.br:80/malek/malek/195
+#EXTINF:-1,FOX PREMIUM 2
+http://streamtv.com.br:80/malek/malek/1623
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://streamtv.com.br:80/malek/malek/194
+#EXTINF:-1,FOX SPORTS
+http://streamtv.com.br:80/malek/malek/1622
+#EXTINF:-1,FOX SPORTS 1 HD
+http://streamtv.com.br:80/malek/malek/192
+#EXTINF:-1,FOX SPORTS 2
+http://streamtv.com.br:80/malek/malek/1621
+#EXTINF:-1,FOX SPORTS 2 HD
+http://streamtv.com.br:80/malek/malek/193
+#EXTINF:-1,FUTURA
+http://streamtv.com.br:80/malek/malek/1620
+#EXTINF:-1,FX
+http://streamtv.com.br:80/malek/malek/1619
+#EXTINF:-1,FX HD
+http://streamtv.com.br:80/malek/malek/190
+#EXTINF:-1,GLOBO BRASILIA
+http://streamtv.com.br:80/malek/malek/1618
+#EXTINF:-1,GLOBO BRASILIA HD
+http://streamtv.com.br:80/malek/malek/723
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://streamtv.com.br:80/malek/malek/1617
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://streamtv.com.br:80/malek/malek/1675
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://streamtv.com.br:80/malek/malek/1674
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO
+http://streamtv.com.br:80/malek/malek/1616
+#EXTINF:-1,GLOBO MINAS
+http://streamtv.com.br:80/malek/malek/1615
+#EXTINF:-1,GLOBO MINAS HD
+http://streamtv.com.br:80/malek/malek/1673
+#EXTINF:-1,GLOBO NEWS
+http://streamtv.com.br:80/malek/malek/1614
+#EXTINF:-1,GLOBO NEWS HD
+http://streamtv.com.br:80/malek/malek/185
+#EXTINF:-1,GLOBO NORDESTE
+http://streamtv.com.br:80/malek/malek/1613
+#EXTINF:-1,GLOBO NORDESTE HD
+http://streamtv.com.br:80/malek/malek/1671
+#EXTINF:-1,GLOBO NSC TV
+http://streamtv.com.br:80/malek/malek/1677
+#EXTINF:-1,GLOBO NSC TV HD
+http://streamtv.com.br:80/malek/malek/1672
+#EXTINF:-1,GLOBO RBS
+http://streamtv.com.br:80/malek/malek/1612
+#EXTINF:-1,GLOBO RBS HD
+http://streamtv.com.br:80/malek/malek/182
+#EXTINF:-1,GLOBO RJ
+http://streamtv.com.br:80/malek/malek/1611
+#EXTINF:-1,GLOBO RJ HD
+http://streamtv.com.br:80/malek/malek/181
+#EXTINF:-1,GLOBO RPC CURITIBA
+http://streamtv.com.br:80/malek/malek/1610
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://streamtv.com.br:80/malek/malek/1670
+#EXTINF:-1,GLOBO S. J. DO RIO PRETO
+http://streamtv.com.br:80/malek/malek/1605
+#EXTINF:-1,GLOBO S. J. DO RIO PRETO HD
+http://streamtv.com.br:80/malek/malek/1049
+#EXTINF:-1,GLOBO SP
+http://streamtv.com.br:80/malek/malek/1609
+#EXTINF:-1,GLOBO SP HD
+http://streamtv.com.br:80/malek/malek/275
+#EXTINF:-1,GLOBO TV ANHANGUERA
+http://streamtv.com.br:80/malek/malek/1608
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://streamtv.com.br:80/malek/malek/1669
+#EXTINF:-1,GLOBO TV BAHIA
+http://streamtv.com.br:80/malek/malek/1607
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://streamtv.com.br:80/malek/malek/1676
+#EXTINF:-1,GLOOB
+http://streamtv.com.br:80/malek/malek/1603
+#EXTINF:-1,GLOOB HD
+http://streamtv.com.br:80/malek/malek/176
+#EXTINF:-1,GLOOBINHO HD
+http://streamtv.com.br:80/malek/malek/175
+#EXTINF:-1,GLOOBINHO
+http://streamtv.com.br:80/malek/malek/1602
+#EXTINF:-1,GNT
+http://streamtv.com.br:80/malek/malek/1601
+#EXTINF:-1,GNT HD
+http://streamtv.com.br:80/malek/malek/174
+#EXTINF:-1,H2 HD
+http://streamtv.com.br:80/malek/malek/173
+#EXTINF:-1,H2
+http://streamtv.com.br:80/malek/malek/1600
+#EXTINF:-1,HBO
+http://streamtv.com.br:80/malek/malek/1599
+#EXTINF:-1,HBO 2
+http://streamtv.com.br:80/malek/malek/1598
+#EXTINF:-1,HBO 2 HD
+http://streamtv.com.br:80/malek/malek/172
+#EXTINF:-1,HBO FAMILY
+http://streamtv.com.br:80/malek/malek/1597
+#EXTINF:-1,HBO FAMILY HD
+http://streamtv.com.br:80/malek/malek/171
+#EXTINF:-1,HBO HD
+http://streamtv.com.br:80/malek/malek/170
+#EXTINF:-1,HBO PLUS
+http://streamtv.com.br:80/malek/malek/1596
+#EXTINF:-1,HBO PLUS HD
+http://streamtv.com.br:80/malek/malek/169
+#EXTINF:-1,HBO SIGNATURE
+http://streamtv.com.br:80/malek/malek/1594
+#EXTINF:-1,HBO SIGNATURE HD
+http://streamtv.com.br:80/malek/malek/168
+#EXTINF:-1,HISTORY
+http://streamtv.com.br:80/malek/malek/1593
+#EXTINF:-1,HISTORY HD
+http://streamtv.com.br:80/malek/malek/167
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://streamtv.com.br:80/malek/malek/1592
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://streamtv.com.br:80/malek/malek/166
+#EXTINF:-1,LIFETIME
+http://streamtv.com.br:80/malek/malek/1591
+#EXTINF:-1,LIFETIME HD
+http://streamtv.com.br:80/malek/malek/165
+#EXTINF:-1,MAIS GLOBOSAT
+http://streamtv.com.br:80/malek/malek/1590
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://streamtv.com.br:80/malek/malek/164
+#EXTINF:-1,MAX
+http://streamtv.com.br:80/malek/malek/1589
+#EXTINF:-1,MAX HD
+http://streamtv.com.br:80/malek/malek/163
+#EXTINF:-1,MAX PRIME
+http://streamtv.com.br:80/malek/malek/1588
+#EXTINF:-1,MAX PRIME HD
+http://streamtv.com.br:80/malek/malek/162
+#EXTINF:-1,MAX UP
+http://streamtv.com.br:80/malek/malek/1586
+#EXTINF:-1,MAX UP HD
+http://streamtv.com.br:80/malek/malek/161
+#EXTINF:-1,MEGAPIX
+http://streamtv.com.br:80/malek/malek/1585
+#EXTINF:-1,MEGAPIX HD
+http://streamtv.com.br:80/malek/malek/160
+#EXTINF:-1,MTV
+http://streamtv.com.br:80/malek/malek/1584
+#EXTINF:-1,MTV HD
+http://streamtv.com.br:80/malek/malek/159
+#EXTINF:-1,MULTISHOW
+http://streamtv.com.br:80/malek/malek/1583
+#EXTINF:-1,MULTISHOW HD
+http://streamtv.com.br:80/malek/malek/158
+#EXTINF:-1,MUSIC BOX BRASIL
+http://streamtv.com.br:80/malek/malek/1582
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://streamtv.com.br:80/malek/malek/157
+#EXTINF:-1,NAT GEO
+http://streamtv.com.br:80/malek/malek/1581
+#EXTINF:-1,NAT GEO HD
+http://streamtv.com.br:80/malek/malek/156
+#EXTINF:-1,NAT GEO KIDS
+http://streamtv.com.br:80/malek/malek/1580
+#EXTINF:-1,NAT GEO KIDS HD
+http://streamtv.com.br:80/malek/malek/155
+#EXTINF:-1,NAT GEO WILD HD
+http://streamtv.com.br:80/malek/malek/154
+#EXTINF:-1,NATGEO WILD
+http://streamtv.com.br:80/malek/malek/1579
+#EXTINF:-1,NBR
+http://streamtv.com.br:80/malek/malek/1578
+#EXTINF:-1,NICK JR
+http://streamtv.com.br:80/malek/malek/1577
+#EXTINF:-1,NICK JR HD
+http://streamtv.com.br:80/malek/malek/153
+#EXTINF:-1,NICKELODEN
+http://streamtv.com.br:80/malek/malek/1576
+#EXTINF:-1,NICKELODEON HD
+http://streamtv.com.br:80/malek/malek/152
+#EXTINF:-1,OFF
+http://streamtv.com.br:80/malek/malek/1575
+#EXTINF:-1,OFF HD
+http://streamtv.com.br:80/malek/malek/151
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://streamtv.com.br:80/malek/malek/1574
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://streamtv.com.br:80/malek/malek/150
+#EXTINF:-1,PREMIERE CLUBES
+http://streamtv.com.br:80/malek/malek/1567
+#EXTINF:-1,PREMIERE CLUBES HD
+http://streamtv.com.br:80/malek/malek/143
+#EXTINF:-1,PREMIERE 2
+http://streamtv.com.br:80/malek/malek/1573
+#EXTINF:-1,PREMIERE 2 HD
+http://streamtv.com.br:80/malek/malek/149
+#EXTINF:-1,PREMIERE 3
+http://streamtv.com.br:80/malek/malek/1572
+#EXTINF:-1,PREMIERE 3 HD
+http://streamtv.com.br:80/malek/malek/148
+#EXTINF:-1,PREMIERE 4
+http://streamtv.com.br:80/malek/malek/1571
+#EXTINF:-1,PREMIERE 4 HD
+http://streamtv.com.br:80/malek/malek/147
+#EXTINF:-1,PREMIERE 5
+http://streamtv.com.br:80/malek/malek/1570
+#EXTINF:-1,PREMIERE 5 HD
+http://streamtv.com.br:80/malek/malek/146
+#EXTINF:-1,PREMIERE 6
+http://streamtv.com.br:80/malek/malek/1569
+#EXTINF:-1,PREMIERE 6 HD
+http://streamtv.com.br:80/malek/malek/145
+#EXTINF:-1,PREMIERE 7
+http://streamtv.com.br:80/malek/malek/1568
+#EXTINF:-1,PREMIERE 7 HD
+http://streamtv.com.br:80/malek/malek/144
+#EXTINF:-1,PRIME BOX BRASIL
+http://streamtv.com.br:80/malek/malek/1566
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://streamtv.com.br:80/malek/malek/142
+#EXTINF:-1,RECORD
+http://streamtv.com.br:80/malek/malek/1565
+#EXTINF:-1,RECORD HD
+http://streamtv.com.br:80/malek/malek/141
+#EXTINF:-1,RECORD NEWS
+http://streamtv.com.br:80/malek/malek/1564
+#EXTINF:-1,RECORD NEWS HD
+http://streamtv.com.br:80/malek/malek/1052
+#EXTINF:-1,RECORD SP
+http://streamtv.com.br:80/malek/malek/1563
+#EXTINF:-1,REDE BRASIL
+http://streamtv.com.br:80/malek/malek/1562
+#EXTINF:-1,REDE TV
+http://streamtv.com.br:80/malek/malek/1561
+#EXTINF:-1,REDE TV HD
+http://streamtv.com.br:80/malek/malek/139
+#EXTINF:-1,SBT
+http://streamtv.com.br:80/malek/malek/1559
+#EXTINF:-1,SBT HD
+http://streamtv.com.br:80/malek/malek/138
+#EXTINF:-1,SBT RS HD
+http://streamtv.com.br:80/malek/malek/1558
+#EXTINF:-1,SPACE
+http://streamtv.com.br:80/malek/malek/1556
+#EXTINF:-1,SPACE HD
+http://streamtv.com.br:80/malek/malek/137
+#EXTINF:-1,SPORTV
+http://streamtv.com.br:80/malek/malek/1555
+#EXTINF:-1,SPORTV HD
+http://streamtv.com.br:80/malek/malek/134
+#EXTINF:-1,SPORTV 2
+http://streamtv.com.br:80/malek/malek/1554
+#EXTINF:-1,SPORTV 2 HD
+http://streamtv.com.br:80/malek/malek/136
+#EXTINF:-1,SPORTV 3
+http://streamtv.com.br:80/malek/malek/1553
+#EXTINF:-1,SPORTV 3 HD
+http://streamtv.com.br:80/malek/malek/135
+#EXTINF:-1,STUDIO UNIVERSAL
+http://streamtv.com.br:80/malek/malek/1552
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://streamtv.com.br:80/malek/malek/133
+#EXTINF:-1,SYFY
+http://streamtv.com.br:80/malek/malek/1557
+#EXTINF:-1,SYFY HD
+http://streamtv.com.br:80/malek/malek/132
+#EXTINF:-1,TBS
+http://streamtv.com.br:80/malek/malek/1550
+#EXTINF:-1,TBS HD
+http://streamtv.com.br:80/malek/malek/131
+#EXTINF:-1,TCM
+http://streamtv.com.br:80/malek/malek/1549
+#EXTINF:-1,TELECINE ACTION
+http://streamtv.com.br:80/malek/malek/1548
+#EXTINF:-1,TELECINE ACTION HD
+http://streamtv.com.br:80/malek/malek/130
+#EXTINF:-1,TELECINE CULT
+http://streamtv.com.br:80/malek/malek/1547
+#EXTINF:-1,TELECINE CULT HD
+http://streamtv.com.br:80/malek/malek/129
+#EXTINF:-1,TELECINE FUN
+http://streamtv.com.br:80/malek/malek/1546
+#EXTINF:-1,TELECINE FUN HD
+http://streamtv.com.br:80/malek/malek/128
+#EXTINF:-1,TELECINE PIPOCA
+http://streamtv.com.br:80/malek/malek/1545
+#EXTINF:-1,TELECINE PIPOCA HD
+http://streamtv.com.br:80/malek/malek/127
+#EXTINF:-1,TELECINE PREMIUM
+http://streamtv.com.br:80/malek/malek/1544
+#EXTINF:-1,TELECINE PREMIUM HD
+http://streamtv.com.br:80/malek/malek/126
+#EXTINF:-1,TELECINE TOUCH
+http://streamtv.com.br:80/malek/malek/1543
+#EXTINF:-1,TELECINE TOUCH HD
+http://streamtv.com.br:80/malek/malek/125
+#EXTINF:-1,TLC
+http://streamtv.com.br:80/malek/malek/1541
+#EXTINF:-1,TLC HD
+http://streamtv.com.br:80/malek/malek/124
+#EXTINF:-1,TNT
+http://streamtv.com.br:80/malek/malek/1540
+#EXTINF:-1,TNT HD
+http://streamtv.com.br:80/malek/malek/123
+#EXTINF:-1,TNT SERIES
+http://streamtv.com.br:80/malek/malek/1539
+#EXTINF:-1,TNT SERIES HD
+http://streamtv.com.br:80/malek/malek/122
+#EXTINF:-1,TOONCAST
+http://streamtv.com.br:80/malek/malek/1538
+#EXTINF:-1,TruTV
+http://streamtv.com.br:80/malek/malek/1530
+#EXTINF:-1,TRUTV HD
+http://streamtv.com.br:80/malek/malek/274
+#EXTINF:-1,TV RA TIM BUM
+http://streamtv.com.br:80/malek/malek/1531
+#EXTINF:-1,TV RA TIM BUM HD
+http://streamtv.com.br:80/malek/malek/119
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://streamtv.com.br:80/malek/malek/1529
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://streamtv.com.br:80/malek/malek/118
+#EXTINF:-1,VH1
+http://streamtv.com.br:80/malek/malek/1528
+#EXTINF:-1,VH1 HD
+http://streamtv.com.br:80/malek/malek/117
+#EXTINF:-1,VIVA
+http://streamtv.com.br:80/malek/malek/1526
+#EXTINF:-1,VIVA HD
+http://streamtv.com.br:80/malek/malek/116
+#EXTINF:-1,WARNER CHANNEL
+http://streamtv.com.br:80/malek/malek/1525
+#EXTINF:-1,WARNER CHANNEL HD
+http://streamtv.com.br:80/malek/malek/115
+#EXTINF:-1,WOOHOO
+http://streamtv.com.br:80/malek/malek/1524
+#EXTINF:-1,WOOHOO HD
+http://streamtv.com.br:80/malek/malek/114
+#EXTINF:-1,CANÇÃO NOVA
+http://streamtv.com.br:80/malek/malek/3164
+#EXTINF:-1,MTV LIVE
+http://streamtv.com.br:80/malek/malek/3166
+#EXTINF:-1,MTV LIVE HD
+http://streamtv.com.br:80/malek/malek/3165
+#EXTINF:-1,TV APARECIDA
+http://streamtv.com.br:80/malek/malek/3167
+#EXTINF:-1,FILM & ARTS
+http://streamtv.com.br:80/malek/malek/4338
+#EXTINF:-1,RECORDTV MG HD
+http://streamtv.com.br:80/malek/malek/4341
+#EXTINF:-1,RECORDTV MG SD
+http://streamtv.com.br:80/malek/malek/4342
+#EXTINF:-1,RECORDTV RIO SD
+http://streamtv.com.br:80/malek/malek/4340
+#EXTINF:-1,REDE VIDA HD
+http://streamtv.com.br:80/malek/malek/3951
+#EXTINF:-1,TV GAZETA SP HD
+http://streamtv.com.br:80/malek/malek/3952
+#EXTINF:-1,BAND FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20041
+#EXTINF:-1,BAND NEWS FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20040
+#EXTINF:-1,Band Sports FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20038
+#EXTINF:-1,BAND SPORTS HD II
+http://streamtv.com.br:80/malek/malek/20037
+#EXTINF:-1,COMBATE FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20034
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://streamtv.com.br:80/malek/malek/20033
+#EXTINF:-1,COMEDY CENTRAL ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20032
+#EXTINF:-1,DISCOVERY TURBO FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20031
+#EXTINF:-1,DISCOVERY TURBO HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20030
+#EXTINF:-1,ESPN EXTRA FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20029
+#EXTINF:-1,ESPN EXTRA ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20028
+#EXTINF:-1,ESPN FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20027
+#EXTINF:-1,ESPN HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20026
+#EXTINF:-1,FOX FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20025
+#EXTINF:-1,FOX LIFE FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20024
+#EXTINF:-1,FOX LIVE II
+http://streamtv.com.br:80/malek/malek/20023
+#EXTINF:-1,Fox Premium 1 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20022
+#EXTINF:-1,FOX PREMIUM 2 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20021
+#EXTINF:-1,FOX SPORTS 2 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20020
+#EXTINF:-1,FOX SPORTS 2 HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20019
+#EXTINF:-1,FOX SPORTS FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20018
+#EXTINF:-1,FOX SPORTS HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20017
+#EXTINF:-1,GLOBO FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20016
+#EXTINF:-1,GLOBO FHD RJ ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20015
+#EXTINF:-1,GLOBO GAZETA SUL FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20014
+#EXTINF:-1,GLOBO GAZETA SUL HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20013
+#EXTINF:-1,GLOBO HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20012
+#EXTINF:-1,GLOBO HD RJ ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20011
+#EXTINF:-1,GLOBO NEWS HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20010
+#EXTINF:-1,H2 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20009
+#EXTINF:-1,HBO 2 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20008
+#EXTINF:-1,HBO FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20007
+#EXTINF:-1,HBO ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20006
+#EXTINF:-1,HBO PLUS FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20005
+#EXTINF:-1,HBO PLUS ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20004
+#EXTINF:-1,MAX FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20002
+#EXTINF:-1,MAX ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20001
+#EXTINF:-1,MAXPRIME FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/20000
+#EXTINF:-1,MEGAPIX FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19998
+#EXTINF:-1,MTV LIVE FHD h.265 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19997
+#EXTINF:-1,MTV LIVE ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19996
+#EXTINF:-1,MULTISHOW  FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19995
+#EXTINF:-1,NatGeo FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19994
+#EXTINF:-1,NATGEO KIDS FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19993
+#EXTINF:-1,NATGEOKIDS ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19992
+#EXTINF:-1,Nick Jr FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19990
+#EXTINF:-1,PREMIERE 2 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19987
+#EXTINF:-1,PREMIERE 3 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19986
+#EXTINF:-1,PREMIERE 4 FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19985
+#EXTINF:-1,PREMIERE CLUBES FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19984
+#EXTINF:-1,PREMIERE CLUBES HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19983
+#EXTINF:-1,PREMIERE HD 2 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19982
+#EXTINF:-1,PREMIERE HD 3 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19981
+#EXTINF:-1,PREMIERE HD 4 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19980
+#EXTINF:-1,RECORD FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19979
+#EXTINF:-1,RECORD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19978
+#EXTINF:-1,RECORDTV BAHIA
+http://streamtv.com.br:80/malek/malek/13432
+#EXTINF:-1,RECORDTV BAHIA HD
+http://streamtv.com.br:80/malek/malek/13433
+#EXTINF:-1,RECORDTV BRASILIA
+http://streamtv.com.br:80/malek/malek/13430
+#EXTINF:-1,RECORD SANTA CATARINA HD
+http://streamtv.com.br:80/malek/malek/13431
+#EXTINF:-1,RECORDTV RS
+http://streamtv.com.br:80/malek/malek/13428
+#EXTINF:-1,RECORDTV RS HD
+http://streamtv.com.br:80/malek/malek/13429
+#EXTINF:-1,SBT FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19977
+#EXTINF:-1,SBT HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19976
+#EXTINF:-1,SPACE FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19973
+#EXTINF:-1,SPORTV 2 HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19972
+#EXTINF:-1,SPORTV 3 HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19971
+#EXTINF:-1,SPORTV FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19970
+#EXTINF:-1,SPORTV FHD 2 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19969
+#EXTINF:-1,SPORTV FHD 3 ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19968
+#EXTINF:-1,SPORTV HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19967
+#EXTINF:-1,TBS FHD
+http://streamtv.com.br:80/malek/malek/19966
+#EXTINF:-1,TBS  ALTERNATIVA
+http://streamtv.com.br:80/malek/malek/19965
+#EXTINF:-1,TELECINE ACTION FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19964
+#EXTINF:-1,TELECINE ACTION HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19963
+#EXTINF:-1,TELECINE FUN FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19962
+#EXTINF:-1,TELECINE FUN HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19961
+#EXTINF:-1,TELECINE PIPOCA FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19960
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://streamtv.com.br:80/malek/malek/19958
+#EXTINF:-1,TELECINE PREMIUM HD II
+http://streamtv.com.br:80/malek/malek/19957
+#EXTINF:-1,TELECINE Touch FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19956
+#EXTINF:-1,TELECINE Touch HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19955
+#EXTINF:-1,TLC HD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19954
+#EXTINF:-1,TNT SERIES FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19953
+#EXTINF:-1,TNT SERIES ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19952
+#EXTINF:-1,UNIVERSAL CHANNEL FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19951
+#EXTINF:-1,WARNER CHANNEL FHD ALTERNATIVO
+http://streamtv.com.br:80/malek/malek/19948
+#EXTINF:-1,24h classicos hanna barbera
+http://streamtv.com.br:80/malek/malek/20186
+#EXTINF:-1,4H animazoo
+http://streamtv.com.br:80/malek/malek/20226
+#EXTINF:-1,apenas um show
+http://streamtv.com.br:80/malek/malek/20183
+#EXTINF:-1,as terriveis aventuras de billy e mandy
+http://streamtv.com.br:80/malek/malek/20192
+#EXTINF:-1,as trapalhadas de flapjack
+http://streamtv.com.br:80/malek/malek/20196
+#EXTINF:-1,ben 10 for
+http://streamtv.com.br:80/malek/malek/20176
+#EXTINF:-1,big bang theory
+http://streamtv.com.br:80/malek/malek/20224
+#EXTINF:-1,chaves animado
+http://streamtv.com.br:80/malek/malek/20181
+#EXTINF:-1,coragem o cao covarde
+http://streamtv.com.br:80/malek/malek/20223
+#EXTINF:-1,digimon classico
+http://streamtv.com.br:80/malek/malek/20222
+#EXTINF:-1,dois homens e meio
+http://streamtv.com.br:80/malek/malek/20214
+#EXTINF:-1,dragon ball super
+http://streamtv.com.br:80/malek/malek/20173
+#EXTINF:-1,esquadr
+http://streamtv.com.br:80/malek/malek/20182
+#EXTINF:-1,hora de aventura
+http://streamtv.com.br:80/malek/malek/20219
+#EXTINF:-1,irmao do jorel
+http://streamtv.com.br:80/malek/malek/20203
+#EXTINF:-1,jake e os piratas da terra do nunca
+http://streamtv.com.br:80/malek/malek/20200
+#EXTINF:-1,kidsplay
+http://streamtv.com.br:80/malek/malek/20218
+#EXTINF:-1,lego unigata
+http://streamtv.com.br:80/malek/malek/20207
+#EXTINF:-1,luluzinha
+http://streamtv.com.br:80/malek/malek/20178
+#EXTINF:-1,masha e o urso
+http://streamtv.com.br:80/malek/malek/20202
+#EXTINF:-1,molang & piupiu
+http://streamtv.com.br:80/malek/malek/20185
+#EXTINF:-1,novo Ducktales
+http://streamtv.com.br:80/malek/malek/20221
+#EXTINF:-1,o incrivel mundo de gumbal
+http://streamtv.com.br:80/malek/malek/20220
+#EXTINF:-1,o show da luna
+http://streamtv.com.br:80/malek/malek/20194
+#EXTINF:-1,o show do looney tunes
+http://streamtv.com.br:80/malek/malek/20199
+#EXTINF:-1,os jovens titas em a
+http://streamtv.com.br:80/malek/malek/20209
+#EXTINF:-1,padrinhos magicos
+http://streamtv.com.br:80/malek/malek/20197
+#EXTINF:-1,paradise P.D
+http://streamtv.com.br:80/malek/malek/20217
+#EXTINF:-1,patrulha canina
+http://streamtv.com.br:80/malek/malek/20184
+#EXTINF:-1,peppa pig
+http://streamtv.com.br:80/malek/malek/20189
+#EXTINF:-1,pj masks
+http://streamtv.com.br:80/malek/malek/20177
+#EXTINF:-1,pokemon
+http://streamtv.com.br:80/malek/malek/20216
+#EXTINF:-1,ricky and morty
+http://streamtv.com.br:80/malek/malek/20215
+#EXTINF:-1,tico e teco e os defensores da lei
+http://streamtv.com.br:80/malek/malek/20190
+#EXTINF:-1,titio av
+http://streamtv.com.br:80/malek/malek/20204
+#EXTINF:-1,Turma da monica 1
+http://streamtv.com.br:80/malek/malek/20205
+#EXTINF:-1,turma da monica 2
+http://streamtv.com.br:80/malek/malek/20210
+#EXTINF:-1,ursos sem curso
+http://streamtv.com.br:80/malek/malek/20225
+#EXTINF:-1,vera e o reino do arco iris
+http://streamtv.com.br:80/malek/malek/20213
+#EXTINF:-1,Banda FM 96.1
+http://streamtv.com.br:80/malek/malek/20983
+#EXTINF:-1,Coca-Cola FM (Brasil)
+http://streamtv.com.br:80/malek/malek/20979
+#EXTINF:-1,Rádio BH FM 102.1
+http://streamtv.com.br:80/malek/malek/20982
+#EXTINF:-1,Rádio Disney 91.3 FM SP
+http://streamtv.com.br:80/malek/malek/20987
+#EXTINF:-1,Rádio Globo FM Brasil
+http://streamtv.com.br:80/malek/malek/20984
+#EXTINF:-1,Rádio Guaiba 101.3 FM
+http://streamtv.com.br:80/malek/malek/20981
+#EXTINF:-1,Rádio Metropolitana FM 98.5 SP
+http://streamtv.com.br:80/malek/malek/20980
+#EXTINF:-1,Rádio Mix FM 106.3 SP
+http://streamtv.com.br:80/malek/malek/20986
+#EXTINF:-1,Rock 89 FM Sao Paulo
+http://streamtv.com.br:80/malek/malek/20985
+#EXTINF:-1,CBN FM 90.5 FM SP
+http://streamtv.com.br:80/malek/malek/20991
+#EXTINF:-1,Energia 97 FM 97.7 SP
+http://streamtv.com.br:80/malek/malek/20992
+#EXTINF:-1,Feliz FM 96.5 SP
+http://streamtv.com.br:80/malek/malek/20988
+#EXTINF:-1,FM O Dia 100.5 RJ
+http://streamtv.com.br:80/malek/malek/20989
+#EXTINF:-1,Jovem Pan 100.9 FM SP
+http://streamtv.com.br:80/malek/malek/20993
+#EXTINF:-1,Transcontinental FM 104.7
+http://streamtv.com.br:80/malek/malek/20990
+#EXTINF:-1,DAZN 1 HD
+http://streamtv.com.br:80/malek/malek/21051
+#EXTINF:-1,EI PLUS
+http://streamtv.com.br:80/malek/malek/20948
+#EXTINF:-1,EI PLUS 2
+http://streamtv.com.br:80/malek/malek/20946
+#EXTINF:-1,EI PLUS 2 HD
+http://streamtv.com.br:80/malek/malek/20947
+#EXTINF:-1,EI PLUS 3
+http://streamtv.com.br:80/malek/malek/20944
+#EXTINF:-1,EI PLUS 3 HD
+http://streamtv.com.br:80/malek/malek/20945
+#EXTINF:-1,EI PLUS HD
+http://streamtv.com.br:80/malek/malek/20949
