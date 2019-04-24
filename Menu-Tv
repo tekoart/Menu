@@ -22,19 +22,20 @@
 <info>Tv Fogo HD</info>
 </channel>
 <channel>
+<name>[COLOR white][B]SERVIDOR: 4[/B][/COLOR] [COLOR yellow][B][Provisória][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/play1</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+<channel>
 <name>[COLOR  white][B]DAZN BRASIL [/B][/COLOR][COLOR red]FUTEBOL[/COLOR] [COLOR white](YOUTUBE)[/COLOR]</name>
 <thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/DAZN-BRASIL</externallink>
 <fanart>https://www.sportindustry.biz/sites/default/files/images/news/DAZN%20%26%20PERFORM.png</fanart>
 <info>youtube</info>
 </channel>
-<channel>
-<name>TESTE</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info>youtube</info>
-</channel>
+
 
 
 
