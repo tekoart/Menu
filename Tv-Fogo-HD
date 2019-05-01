@@ -268,6 +268,9 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?
 #EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="FILMES E SERIES",HBO
+https://aovivo.multicanais.com/live/hbosd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES E SERIES",HBO2
 http://207.180.242.63:5080/LiveApp/streams/995515746173991975101420.m3u8?token=null
 
