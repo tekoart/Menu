@@ -226,36 +226,6 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-logo="http://cdn1.sempretops.com/wp-content/uploads/esportes.png" group-title="CANAIS ESPORTES",[COLOR yellow][B]CANAIS ESPORTES[/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="SPORTS",FOX SPORTS
-https://live.futemax.tv/dvr/0e5fbf76ecb98c5d4e7f3608f338228e/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="SPORTS",ESPN Brasil
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="SPORTS",ESPN
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="SPORTS",ESPN HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b5316608.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="SPORTS",ESPN 2
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="SPORTS",ESPN 2 HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b5316608.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="SPORTS",ESPN Extra
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ALTERNATIVOS",EI MAXX HD
-http://mdstrm1-a.akamaihd.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ALTERNATIVOS",EI MAXX 2 HD
-http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ei1.png" group-title="ALTERNATIVOS",ESPORTE INTERATIVO HD
-http://mdstrm1-a.akamaihd.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=mdstrm1-a.akamaihd.net&proto=http
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="SPORTS",All Sports BR
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
@@ -267,21 +237,6 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/aR2ccq" group-title="CANAIS FILMES",[COLOR yellow][B]CANAIS FILMES[/B][/COLOR]
 http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo.png" group-title="FILMES E SERIES",HBO
-https://aovivo.multicanais.com/live/hbosd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES E SERIES",HBO2
-http://207.180.242.63:5080/LiveApp/streams/995515746173991975101420.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="FILMES E SERIES",TNT SERIES
-http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="FILMES E SERIES",FOX
-http://207.180.242.63:5080/LiveApp/streams/585345247937451224637314.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="FILMES E SERIES",TELECINE ACTION
-http://207.180.242.63:5080/LiveApp/streams/376354853443975531601263.m3u8?token=null
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VDmvAb5.png" group-title="FILMES E SERIES",Cine Sky
 http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
@@ -297,24 +252,6 @@ http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3
 
 #EXTINF:-1 tvg-logo="http://iptv-tvfogohd.zyro.com/gallery_gen/ae84445630cb520650fd26594a5cc867.png" group-title="CANAIS INFANTIL",[COLOR yellow][B]CANAIS INFANTIL[/B][/COLOR]
 http://0.0.0.0
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",Disney XD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b832512.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",Disney XD HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="INFANTIL",Disney Junior
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b832512.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="INFANTIL",Disney Junior HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="INFANTIL",Disney Channel
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="INFANTIL",Disney Channel HD
-http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b2690048.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HHbP4lo.jpg" group-title="DESENHOS",GOSPEL CARTOONS
 http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?TvFogoHD
