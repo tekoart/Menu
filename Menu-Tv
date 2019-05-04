@@ -15,6 +15,13 @@
 <info>Tv Fogo HD</info>
 </channel>
 <channel>
+<name>[COLOR white][B]SERVIDOR: 3[/B][/COLOR] [COLOR yellow][B][Lista Provisoria][/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/wTHwmDe.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/play1</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
+<channel>
 <name>[COLOR  white][B]DAZN BRASIL [/B][/COLOR][COLOR red]FUTEBOL[/COLOR] [COLOR white](YOUTUBE)[/COLOR]</name>
 <thumbnail>https://yt3.ggpht.com/a-/AAuE7mCpgTQvxdtxuqpyKZbH8ScwpUufRduKzCsi4A=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
 <externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/DAZN-BRASIL</externallink>
