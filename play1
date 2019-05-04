@@ -1,27 +1,48 @@
 #EXTM3U
-#EXTINF:-1,BRA | A&E HD
-http://servpremium.net:25461/18/RAEYikatTf/3092
-#EXTINF:-1,BRA | Animal Planet HD
-http://servpremium.net:25461/18/RAEYikatTf/3090
-#EXTINF:-1,BRA | AXN HD
-http://servpremium.net:25461/18/RAEYikatTf/3091
-#EXTINF:-1,BRA | Baby TV
-http://servpremium.net:25461/18/RAEYikatTf/3089
-#EXTINF:-1,BRA | Band Campinas
-http://servpremium.net:25461/18/RAEYikatTf/3088
-#EXTINF:-1,BRA | Band Sportes
-http://servpremium.net:25461/18/RAEYikatTf/3087
-#EXTINF:-1,BRA | Combate
-http://servpremium.net:25461/18/RAEYikatTf/3086
-#EXTINF:-1,BRA | ESPN 2 [BRA]
-http://servpremium.net:25461/18/RAEYikatTf/3085
-#EXTINF:-1,BRA | ESPN HD Brasil
-http://servpremium.net:25461/18/RAEYikatTf/3084
-#EXTINF:-1,BRA | Fox Sports
-http://servpremium.net:25461/18/RAEYikatTf/3083
-#EXTINF:-1,BRA | Fox Sports 2 [BRA]
-http://servpremium.net:25461/18/RAEYikatTf/3082
-#EXTINF:-1,BRA | Globo HD
-http://servpremium.net:25461/18/RAEYikatTf/3081
-#EXTINF:-1,BRA | STB
-http://servpremium.net:25461/18/RAEYikatTf/3080
+
+#EXTINF:-1,|BR| TV GLOBO
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24902
+#EXTINF:-1,|BR| TV BRASIL
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24903
+#EXTINF:-1,|BR| SBT
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24911
+#EXTINF:-1,|BR| BAND CAMPINAS
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24923
+#EXTINF:-1,|BR| REDE TV !
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24925
+#EXTINF:-1,|BR| SPACE
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24910
+#EXTINF:-1,|BR| TNT
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24906
+#EXTINF:-1,|BR| MULTISHOW
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24913
+#EXTINF:-1,|BR| MEGAPIX
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24914
+#EXTINF:-1,|BR| LIFETIME
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24915
+#EXTINF:-1,|BR| TRU TV
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24904
+#EXTINF:-1,|BR| SPORTV1
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24909
+#EXTINF:-1,|BR| SPORTV2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24908
+#EXTINF:-1,|BR| SPORTV3
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24907
+#EXTINF:-1,|BR| FOX SPORT
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24917
+#EXTINF:-1,|BR| FOX SPORT2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24916
+#EXTINF:-1,|BR| COMBATE
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24920
+#EXTINF:-1,|BR| DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24918
+#EXTINF:-1,|BR| DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24919
+#EXTINF:-1,|BR| TOONCAST
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24905
+#EXTINF:-1,|BR| BAND NEWS
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24922
+#EXTINF:-1,|BR| BIS
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24921
+#EXTINF:-1,|BR| OFF
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24912
