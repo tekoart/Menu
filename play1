@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,|BR| TV GLOBO
 plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24902
 #EXTINF:-1,|BR| TV BRASIL
