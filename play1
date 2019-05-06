@@ -1,48 +1,422 @@
 #EXTM3U
 
-#EXTINF:-1,|BR| TV GLOBO
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24902
-#EXTINF:-1,|BR| TV BRASIL
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24903
-#EXTINF:-1,|BR| SBT
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24911
-#EXTINF:-1,|BR| BAND CAMPINAS
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24923
-#EXTINF:-1,|BR| REDE TV !
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24925
-#EXTINF:-1,|BR| SPACE
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24910
-#EXTINF:-1,|BR| TNT
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24906
-#EXTINF:-1,|BR| MULTISHOW
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24913
-#EXTINF:-1,|BR| MEGAPIX
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24914
-#EXTINF:-1,|BR| LIFETIME
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24915
-#EXTINF:-1,|BR| TRU TV
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24904
-#EXTINF:-1,|BR| SPORTV1
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24909
-#EXTINF:-1,|BR| SPORTV2
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24908
-#EXTINF:-1,|BR| SPORTV3
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24907
-#EXTINF:-1,|BR| FOX SPORT
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24917
-#EXTINF:-1,|BR| FOX SPORT2
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24916
-#EXTINF:-1,|BR| COMBATE
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24920
-#EXTINF:-1,|BR| DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24918
-#EXTINF:-1,|BR| DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24919
-#EXTINF:-1,|BR| TOONCAST
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24905
-#EXTINF:-1,|BR| BAND NEWS
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24922
-#EXTINF:-1,|BR| BIS
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24921
-#EXTINF:-1,|BR| OFF
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/24912
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18858
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18738
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18739
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18857
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18736
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18737
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18854
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18730
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18731
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18856
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18734
+#EXTINF:-1,Animal Planet SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18735
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18855
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18732
+#EXTINF:-1,Arte 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18733
+#EXTINF:-1,BBB 1 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18746
+#EXTINF:-1,BBB 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18483
+#EXTINF:-1,BBB 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18482
+#EXTINF:-1,BBB 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18742
+#EXTINF:-1,BBB 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18481
+#EXTINF:-1,BBB 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18480
+#EXTINF:-1,BBB Mosaico FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18741
+#EXTINF:-1,BBB Mosaico HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18479
+#EXTINF:-1,BBB Mosaico SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18478
+#EXTINF:-1,BabyTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18729
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18786
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18727
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18728
+#EXTINF:-1,BandNews FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18853
+#EXTINF:-1,BandNews HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18725
+#EXTINF:-1,BandNews SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18726
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18852
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18723
+#EXTINF:-1,BandSports SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18724
+#EXTINF:-1,Bis FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18785
+#EXTINF:-1,Bis HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18721
+#EXTINF:-1,Bis SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18722
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18851
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18718
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18719
+#EXTINF:-1,Campeonato Catarinense 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18451
+#EXTINF:-1,Campeonato Catarinense 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18450
+#EXTINF:-1,Campeonato Catarinense 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18449
+#EXTINF:-1,Campeonato Catarinense 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18448
+#EXTINF:-1,Campeonato Catarinense 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18447
+#EXTINF:-1,Campeonato Catarinense 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18446
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18753
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18716
+#EXTINF:-1,Canal Brasil SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18717
+#EXTINF:-1,Cancao Nova SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18713
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18849
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18711
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18712
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18848
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18709
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18710
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18784
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18707
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18708
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18847
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18705
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18706
+#EXTINF:-1,Copa Nordeste 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18477
+#EXTINF:-1,Copa Nordeste 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18476
+#EXTINF:-1,Copa Nordeste 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18475
+#EXTINF:-1,Copa Nordeste 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18474
+#EXTINF:-1,Copa Nordeste 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18473
+#EXTINF:-1,Copa Nordeste 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18472
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18846
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18703
+#EXTINF:-1,Curta! SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18704
+#EXTINF:-1,DAZN 1 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18867
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18864
+#EXTINF:-1,DAZN 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18863
+#EXTINF:-1,DAZN 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18866
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18862
+#EXTINF:-1,DAZN 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18861
+#EXTINF:-1,DAZN 3 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18865
+#EXTINF:-1,DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18860
+#EXTINF:-1,DAZN 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18859
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18783
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18701
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18702
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18845
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18699
+#EXTINF:-1,Discovery Civilization SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18700
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18844
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18697
+#EXTINF:-1,Discovery H&H SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18698
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18843
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18695
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18696
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18842
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18693
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18694
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18841
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18691
+#EXTINF:-1,Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18692
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18840
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18689
+#EXTINF:-1,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18690
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18839
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18687
+#EXTINF:-1,Discovery World SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18688
+#EXTINF:-1,Disney FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18782
+#EXTINF:-1,Disney HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18685
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18788
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18509
+#EXTINF:-1,Disney Jr SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18684
+#EXTINF:-1,Disney SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18686
+#EXTINF:-1,Disney XD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18683
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18838
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18681
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18682
+#EXTINF:-1,EI Plus 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18443
+#EXTINF:-1,EI Plus 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18442
+#EXTINF:-1,EI Plus 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18441
+#EXTINF:-1,EI Plus 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18440
+#EXTINF:-1,EI Plus HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18445
+#EXTINF:-1,EI Plus SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18444
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18837
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18678
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18679
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18781
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18676
+#EXTINF:-1,ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18677
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18836
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18674
+#EXTINF:-1,ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18675
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18780
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18673
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18680
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18829
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18653
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18654
+#EXTINF:-1,Film & Arts SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18497
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18835
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18671
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18672
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18834
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18669
+#EXTINF:-1,Food Network SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18670
+#EXTINF:-1,Fox FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18779
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18667
+#EXTINF:-1,Fox Life FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18833
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18665
+#EXTINF:-1,Fox Life SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18666
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18832
+#EXTINF:-1,Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18663
+#EXTINF:-1,Fox Premium 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18664
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18831
+#EXTINF:-1,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18661
+#EXTINF:-1,Fox Premium 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18662
+#EXTINF:-1,Fox SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18668
+#EXTINF:-1,Fox Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18778
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18657
+#EXTINF:-1,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18658
+#EXTINF:-1,Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18777
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18659
+#EXTINF:-1,Fox Sports SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18660
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18830
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18655
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18656
+#EXTINF:-1,Globo RPC Foz do Iguacu FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18390
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18389
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18391
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18827
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18645
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18646
+#EXTINF:-1,Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18379
+#EXTINF:-1,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18434
+#EXTINF:-1,Globo Brasilia SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18435
+#EXTINF:-1,Globo EPTV Araraquara SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18433
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18378
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18431
+#EXTINF:-1,Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18432
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18359
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18430
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18429
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18428
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18358
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18357
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18356
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18352
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18351
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18350
+#EXTINF:-1,Globo Inter TV Natal SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18427
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18349
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18348
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18347
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18355
+#EXTINF:-1,Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18354
+#EXTINF:-1,Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18353
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18377
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18425
+#EXTINF:-1,Globo Minas SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18426
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18346
+#EXTINF:-1,Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18345
+#EXTINF:-1,Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18344
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18394
+#EXTINF:-1,Globo NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18393
+#EXTINF:-1,Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18392
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18375
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18421
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18422
+#EXTINF:-1,Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18340
+#EXTINF:-1,Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18339
+#EXTINF:-1,Globo NSC TV Joinville SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18338
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18776
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18651
