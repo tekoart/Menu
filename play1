@@ -1,422 +1,1091 @@
 #EXTM3U
-
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18858
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18738
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18739
-#EXTINF:-1,AMC FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18857
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18736
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18737
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18854
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18730
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18731
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18856
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18734
-#EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18735
-#EXTINF:-1,Arte 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18855
-#EXTINF:-1,Arte 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18732
-#EXTINF:-1,Arte 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18733
-#EXTINF:-1,BBB 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18746
-#EXTINF:-1,BBB 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18483
-#EXTINF:-1,BBB 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18482
-#EXTINF:-1,BBB 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18742
-#EXTINF:-1,BBB 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18481
-#EXTINF:-1,BBB 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18480
-#EXTINF:-1,BBB Mosaico FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18741
-#EXTINF:-1,BBB Mosaico HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18479
-#EXTINF:-1,BBB Mosaico SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18478
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18729
-#EXTINF:-1,Band SP FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18786
-#EXTINF:-1,Band SP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18727
-#EXTINF:-1,Band SP SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18728
-#EXTINF:-1,BandNews FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18853
-#EXTINF:-1,BandNews HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18725
-#EXTINF:-1,BandNews SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18726
-#EXTINF:-1,BandSports FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18852
-#EXTINF:-1,BandSports HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18723
-#EXTINF:-1,BandSports SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18724
-#EXTINF:-1,Bis FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18785
-#EXTINF:-1,Bis HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18721
-#EXTINF:-1,Bis SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18722
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18851
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18718
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18719
-#EXTINF:-1,Campeonato Catarinense 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18451
-#EXTINF:-1,Campeonato Catarinense 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18450
-#EXTINF:-1,Campeonato Catarinense 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18449
-#EXTINF:-1,Campeonato Catarinense 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18448
-#EXTINF:-1,Campeonato Catarinense 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18447
-#EXTINF:-1,Campeonato Catarinense 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18446
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18753
-#EXTINF:-1,Canal Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18716
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18717
-#EXTINF:-1,Cancao Nova SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18713
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18849
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18711
-#EXTINF:-1,Cartoon Network SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18712
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18848
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18709
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18710
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18784
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18707
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18708
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18847
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18705
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18706
-#EXTINF:-1,Copa Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18477
-#EXTINF:-1,Copa Nordeste 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18476
-#EXTINF:-1,Copa Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18475
-#EXTINF:-1,Copa Nordeste 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18474
-#EXTINF:-1,Copa Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18473
-#EXTINF:-1,Copa Nordeste 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18472
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18846
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18703
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18704
-#EXTINF:-1,DAZN 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18867
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18864
-#EXTINF:-1,DAZN 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18863
-#EXTINF:-1,DAZN 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18866
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18862
-#EXTINF:-1,DAZN 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18861
-#EXTINF:-1,DAZN 3 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18865
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18860
-#EXTINF:-1,DAZN 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18859
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18783
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18701
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18702
-#EXTINF:-1,Discovery Civilization FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18845
-#EXTINF:-1,Discovery Civilization HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18699
-#EXTINF:-1,Discovery Civilization SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18700
-#EXTINF:-1,Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18844
-#EXTINF:-1,Discovery H&H HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18697
-#EXTINF:-1,Discovery H&H SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18698
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18843
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18695
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18696
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18842
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18693
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18694
-#EXTINF:-1,Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18841
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18691
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18692
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18840
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18689
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18690
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18839
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18687
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18688
-#EXTINF:-1,Disney FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18782
-#EXTINF:-1,Disney HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18685
-#EXTINF:-1,Disney Jr FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18788
-#EXTINF:-1,Disney Jr HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18509
-#EXTINF:-1,Disney Jr SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18684
-#EXTINF:-1,Disney SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18686
-#EXTINF:-1,Disney XD SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18683
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18838
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18681
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18682
-#EXTINF:-1,EI Plus 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18443
-#EXTINF:-1,EI Plus 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18442
-#EXTINF:-1,EI Plus 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18441
-#EXTINF:-1,EI Plus 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18440
-#EXTINF:-1,EI Plus HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18445
-#EXTINF:-1,EI Plus SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18444
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18837
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18678
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18679
-#EXTINF:-1,ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18781
-#EXTINF:-1,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18676
-#EXTINF:-1,ESPN Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18677
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18836
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18674
-#EXTINF:-1,ESPN Extra SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18675
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18780
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18673
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18680
-#EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18829
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18653
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18654
-#EXTINF:-1,Film & Arts SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18497
-#EXTINF:-1,Fish TV FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18835
-#EXTINF:-1,Fish TV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18671
-#EXTINF:-1,Fish TV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18672
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18834
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18669
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18670
-#EXTINF:-1,Fox FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18779
-#EXTINF:-1,Fox HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18667
-#EXTINF:-1,Fox Life FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18833
-#EXTINF:-1,Fox Life HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18665
-#EXTINF:-1,Fox Life SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18666
-#EXTINF:-1,Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18832
-#EXTINF:-1,Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18663
-#EXTINF:-1,Fox Premium 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18664
-#EXTINF:-1,Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18831
-#EXTINF:-1,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18661
-#EXTINF:-1,Fox Premium 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18662
-#EXTINF:-1,Fox SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18668
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18778
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18657
-#EXTINF:-1,Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18658
-#EXTINF:-1,Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18777
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18659
-#EXTINF:-1,Fox Sports SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18660
-#EXTINF:-1,Futura FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18830
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18655
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18656
-#EXTINF:-1,Globo RPC Foz do Iguacu FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18390
-#EXTINF:-1,Globo RPC Foz do Iguacu HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18389
-#EXTINF:-1,Globo RPC Foz do Iguacu SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18391
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18827
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18645
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18646
-#EXTINF:-1,Globo Brasilia FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18379
-#EXTINF:-1,Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18434
-#EXTINF:-1,Globo Brasilia SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18435
-#EXTINF:-1,Globo EPTV Araraquara SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18433
-#EXTINF:-1,Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18378
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18431
-#EXTINF:-1,Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18432
-#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18359
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18430
-#EXTINF:-1,Globo EPTV Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18429
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18428
-#EXTINF:-1,Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18358
-#EXTINF:-1,Globo Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18357
-#EXTINF:-1,Globo Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18356
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18352
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18351
-#EXTINF:-1,Globo Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18350
-#EXTINF:-1,Globo Inter TV Natal SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18427
-#EXTINF:-1,Globo Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18349
-#EXTINF:-1,Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18348
-#EXTINF:-1,Globo Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18347
-#EXTINF:-1,Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18355
-#EXTINF:-1,Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18354
-#EXTINF:-1,Globo Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18353
-#EXTINF:-1,Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18377
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18425
-#EXTINF:-1,Globo Minas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18426
-#EXTINF:-1,Globo NSC TV Blumenau FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18346
-#EXTINF:-1,Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18345
-#EXTINF:-1,Globo NSC TV Blumenau SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18344
-#EXTINF:-1,Globo NSC TV Chapeco FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18394
-#EXTINF:-1,Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18393
-#EXTINF:-1,Globo NSC TV Chapeco SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18392
-#EXTINF:-1,Globo NSC TV Florianopolis FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18375
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18421
-#EXTINF:-1,Globo NSC TV Florianopolis SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18422
-#EXTINF:-1,Globo NSC TV Joinville FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18340
-#EXTINF:-1,Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18339
-#EXTINF:-1,Globo NSC TV Joinville SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18338
-#EXTINF:-1,Globo News FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18776
-#EXTINF:-1,Globo News HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=SIMPLE&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18651
+#EXTINF:-1,[B][COLOR white]A&E FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18858
+#EXTINF:-1,[B][COLOR white]A&E HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18738
+#EXTINF:-1,[B][COLOR white]A&E SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18739
+#EXTINF:-1,[B][COLOR white]AMC FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18857
+#EXTINF:-1,[B][COLOR white]AMC HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18736
+#EXTINF:-1,[B][COLOR white]AMC SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18737
+#EXTINF:-1,[B][COLOR white]AXN FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18854
+#EXTINF:-1,[B][COLOR white]AXN HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18730
+#EXTINF:-1,[B][COLOR white]AXN SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18731
+#EXTINF:-1,[B][COLOR white]Animal Planet FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18856
+#EXTINF:-1,[B][COLOR white]Animal Planet HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18734
+#EXTINF:-1,[B][COLOR white]Animal Planet SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18735
+#EXTINF:-1,[B][COLOR white]Arte 1 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18855
+#EXTINF:-1,[B][COLOR white]Arte 1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18732
+#EXTINF:-1,[B][COLOR white]Arte 1 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18733
+#EXTINF:-1,[B][COLOR white]BabyTV SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18729
+#EXTINF:-1,[B][COLOR white]Band SP FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18786
+#EXTINF:-1,[B][COLOR white]Band SP HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18727
+#EXTINF:-1,[B][COLOR white]Band SP SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18728
+#EXTINF:-1,[B][COLOR white]BandNews FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18853
+#EXTINF:-1,[B][COLOR white]BandNews HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18725
+#EXTINF:-1,[B][COLOR white]BandNews SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18726
+#EXTINF:-1,[B][COLOR white]BandSports FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18852
+#EXTINF:-1,[B][COLOR white]BandSports HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18723
+#EXTINF:-1,[B][COLOR white]BandSports SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18724
+#EXTINF:-1,[B][COLOR white]Bis FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18785
+#EXTINF:-1,[B][COLOR white]Bis HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18721
+#EXTINF:-1,[B][COLOR white]Bis SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18722
+#EXTINF:-1,[B][COLOR white]Boomerang FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18851
+#EXTINF:-1,[B][COLOR white]Boomerang HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18718
+#EXTINF:-1,[B][COLOR white]Boomerang SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18719
+#EXTINF:-1,[B][COLOR white]Canal Brasil FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18753
+#EXTINF:-1,[B][COLOR white]Canal Brasil HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18716
+#EXTINF:-1,[B][COLOR white]Canal Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18717
+#EXTINF:-1,[B][COLOR white]Cancao Nova SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18713
+#EXTINF:-1,[B][COLOR white]Cartoon Network FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18849
+#EXTINF:-1,[B][COLOR white]Cartoon Network HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18711
+#EXTINF:-1,[B][COLOR white]Cartoon Network SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18712
+#EXTINF:-1,[B][COLOR white]Cinemax FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18848
+#EXTINF:-1,[B][COLOR white]Cinemax HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18709
+#EXTINF:-1,[B][COLOR white]Cinemax SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18710
+#EXTINF:-1,[B][COLOR white]Combate FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18784
+#EXTINF:-1,[B][COLOR white]Combate HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18707
+#EXTINF:-1,[B][COLOR white]Combate SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18708
+#EXTINF:-1,[B][COLOR white]Comedy Central FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18847
+#EXTINF:-1,[B][COLOR white]Comedy Central HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18705
+#EXTINF:-1,[B][COLOR white]Comedy Central SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18706
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18477
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 1 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18476
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18475
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18474
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 3 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18473
+#EXTINF:-1,[B][COLOR white]Copa Nordeste 3 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18472
+#EXTINF:-1,[B][COLOR white]Curta! FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18846
+#EXTINF:-1,[B][COLOR white]Curta! HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18703
+#EXTINF:-1,[B][COLOR white]Curta! SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18704
+#EXTINF:-1,[B][COLOR white]DAZN 1 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18867
+#EXTINF:-1,[B][COLOR white]DAZN 1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18864
+#EXTINF:-1,[B][COLOR white]DAZN 1 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18863
+#EXTINF:-1,[B][COLOR white]DAZN 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18866
+#EXTINF:-1,[B][COLOR white]DAZN 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18862
+#EXTINF:-1,[B][COLOR white]DAZN 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18861
+#EXTINF:-1,[B][COLOR white]DAZN 3 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18865
+#EXTINF:-1,[B][COLOR white]DAZN 3 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18860
+#EXTINF:-1,[B][COLOR white]DAZN 3 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18859
+#EXTINF:-1,[B][COLOR white]Discovery Channel FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18783
+#EXTINF:-1,[B][COLOR white]Discovery Channel HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18701
+#EXTINF:-1,[B][COLOR white]Discovery Channel SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18702
+#EXTINF:-1,[B][COLOR white]Discovery Civilization FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18845
+#EXTINF:-1,[B][COLOR white]Discovery Civilization HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18699
+#EXTINF:-1,[B][COLOR white]Discovery Civilization SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18700
+#EXTINF:-1,[B][COLOR white]Discovery H&H FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18844
+#EXTINF:-1,[B][COLOR white]Discovery H&H HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18697
+#EXTINF:-1,[B][COLOR white]Discovery H&H SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18698
+#EXTINF:-1,[B][COLOR white]Discovery Kids FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18843
+#EXTINF:-1,[B][COLOR white]Discovery Kids HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18695
+#EXTINF:-1,[B][COLOR white]Discovery Kids SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18696
+#EXTINF:-1,[B][COLOR white]Discovery Science FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18842
+#EXTINF:-1,[B][COLOR white]Discovery Science HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18693
+#EXTINF:-1,[B][COLOR white]Discovery Science SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18694
+#EXTINF:-1,[B][COLOR white]Discovery Theater FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18841
+#EXTINF:-1,[B][COLOR white]Discovery Theater HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18691
+#EXTINF:-1,[B][COLOR white]Discovery Theater SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18692
+#EXTINF:-1,[B][COLOR white]Discovery Turbo FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18840
+#EXTINF:-1,[B][COLOR white]Discovery Turbo HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18689
+#EXTINF:-1,[B][COLOR white]Discovery Turbo SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18690
+#EXTINF:-1,[B][COLOR white]Discovery World FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18839
+#EXTINF:-1,[B][COLOR white]Discovery World HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18687
+#EXTINF:-1,[B][COLOR white]Discovery World SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18688
+#EXTINF:-1,[B][COLOR white]Disney FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18782
+#EXTINF:-1,[B][COLOR white]Disney HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18685
+#EXTINF:-1,[B][COLOR white]Disney Jr FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18788
+#EXTINF:-1,[B][COLOR white]Disney Jr HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18509
+#EXTINF:-1,[B][COLOR white]Disney Jr SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18684
+#EXTINF:-1,[B][COLOR white]Disney SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18686
+#EXTINF:-1,[B][COLOR white]Disney XD SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18683
+#EXTINF:-1,[B][COLOR white]E! FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18838
+#EXTINF:-1,[B][COLOR white]E! HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18681
+#EXTINF:-1,[B][COLOR white]E! SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18682
+#EXTINF:-1,[B][COLOR white]EI Plus 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18443
+#EXTINF:-1,[B][COLOR white]EI Plus 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18442
+#EXTINF:-1,[B][COLOR white]EI Plus 3 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18441
+#EXTINF:-1,[B][COLOR white]EI Plus 3 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18440
+#EXTINF:-1,[B][COLOR white]EI Plus HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18445
+#EXTINF:-1,[B][COLOR white]EI Plus SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18444
+#EXTINF:-1,[B][COLOR white]ESPN 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18837
+#EXTINF:-1,[B][COLOR white]ESPN 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18678
+#EXTINF:-1,[B][COLOR white]ESPN 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18679
+#EXTINF:-1,[B][COLOR white]ESPN Brasil FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18781
+#EXTINF:-1,[B][COLOR white]ESPN Brasil HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18676
+#EXTINF:-1,[B][COLOR white]ESPN Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18677
+#EXTINF:-1,[B][COLOR white]ESPN Extra FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18836
+#EXTINF:-1,[B][COLOR white]ESPN Extra HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18674
+#EXTINF:-1,[B][COLOR white]ESPN Extra SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18675
+#EXTINF:-1,[B][COLOR white]ESPN FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18780
+#EXTINF:-1,[B][COLOR white]ESPN HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18673
+#EXTINF:-1,[B][COLOR white]ESPN SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18680
+#EXTINF:-1,[B][COLOR white]FX FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18829
+#EXTINF:-1,[B][COLOR white]FX HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18653
+#EXTINF:-1,[B][COLOR white]FX SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18654
+#EXTINF:-1,[B][COLOR white]Film & Arts SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18497
+#EXTINF:-1,[B][COLOR white]Fish TV FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18835
+#EXTINF:-1,[B][COLOR white]Fish TV HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18671
+#EXTINF:-1,[B][COLOR white]Fish TV SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18672
+#EXTINF:-1,[B][COLOR white]Food Network FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18834
+#EXTINF:-1,[B][COLOR white]Food Network HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18669
+#EXTINF:-1,[B][COLOR white]Food Network SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18670
+#EXTINF:-1,[B][COLOR white]Fox FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18779
+#EXTINF:-1,[B][COLOR white]Fox HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18667
+#EXTINF:-1,[B][COLOR white]Fox Life FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18833
+#EXTINF:-1,[B][COLOR white]Fox Life HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18665
+#EXTINF:-1,[B][COLOR white]Fox Life SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18666
+#EXTINF:-1,[B][COLOR white]Fox Premium 1 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18832
+#EXTINF:-1,[B][COLOR white]Fox Premium 1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18663
+#EXTINF:-1,[B][COLOR white]Fox Premium 1 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18664
+#EXTINF:-1,[B][COLOR white]Fox Premium 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18831
+#EXTINF:-1,[B][COLOR white]Fox Premium 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18661
+#EXTINF:-1,[B][COLOR white]Fox Premium 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18662
+#EXTINF:-1,[B][COLOR white]Fox SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18668
+#EXTINF:-1,[B][COLOR white]Fox Sports 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18778
+#EXTINF:-1,[B][COLOR white]Fox Sports 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18657
+#EXTINF:-1,[B][COLOR white]Fox Sports 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18658
+#EXTINF:-1,[B][COLOR white]Fox Sports FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18777
+#EXTINF:-1,[B][COLOR white]Fox Sports HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18659
+#EXTINF:-1,[B][COLOR white]Fox Sports SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18660
+#EXTINF:-1,[B][COLOR white]Futura FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18830
+#EXTINF:-1,[B][COLOR white]Futura HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18655
+#EXTINF:-1,[B][COLOR white]Futura SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18656
+#EXTINF:-1,[B][COLOR white]Globo RPC Foz do Igua[/COLOR][/B]cu FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18390
+#EXTINF:-1,[B][COLOR white]Globo RPC Foz do Iguacu HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18389
+#EXTINF:-1,[B][COLOR white]Globo RPC Foz do Iguacu SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18391
+#EXTINF:-1,[B][COLOR white]GNT FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18827
+#EXTINF:-1,[B][COLOR white]GNT HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18645
+#EXTINF:-1,[B][COLOR white]GNT SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18646
+#EXTINF:-1,[B][COLOR white]Globo Brasilia FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18379
+#EXTINF:-1,[B][COLOR white]Globo Brasilia HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18434
+#EXTINF:-1,[B][COLOR white]Globo Brasilia SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18435
+#EXTINF:-1,[B][COLOR white]Globo EPTV Araraquara SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18433
+#EXTINF:-1,[B][COLOR white]Globo EPTV Campinas FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18378
+#EXTINF:-1,[B][COLOR white]Globo EPTV Campinas HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18431
+#EXTINF:-1,[B][COLOR white]Globo EPTV Campinas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18432
+#EXTINF:-1,[B][COLOR white]Globo EPTV Ribeirao Preto FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18359
+#EXTINF:-1,[B][COLOR white]Globo EPTV Ribeirao Preto HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18430
+#EXTINF:-1,[B][COLOR white]Globo EPTV Ribeirao Preto SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18429
+#EXTINF:-1,[B][COLOR white]Globo EPTV Sao Carlos SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18428
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Alto Litoral FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18358
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Alto Litoral HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18357
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Alto Litoral SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18356
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Grande Minas FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18352
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Grande Minas HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18351
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Grande Minas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18350
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Natal SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18427
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Serra Mar FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18349
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Serra Mar HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18348
+#EXTINF:-1,[B][COLOR white]Globo Inter TV Serra Mar SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18347
+#EXTINF:-1,[B][COLOR white]Globo Inter TV dos Vales FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18355
+#EXTINF:-1,[B][COLOR white]Globo Inter TV dos Vales HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18354
+#EXTINF:-1,[B][COLOR white]Globo Inter TV dos Vales SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18353
+#EXTINF:-1,[B][COLOR white]Globo Minas FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18377
+#EXTINF:-1,[B][COLOR white]Globo Minas HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18425
+#EXTINF:-1,[B][COLOR white]Globo Minas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18426
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Blumenau FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18346
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Blumenau HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18345
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Blumenau SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18344
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Chapeco FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18394
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Chapeco HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18393
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Chapeco SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18392
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Florianopolis FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18375
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Florianopolis HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18421
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Florianopolis SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18422
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Joinville FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18340
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Joinville HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18339
+#EXTINF:-1,[B][COLOR white]Globo NSC TV Joinville SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18338
+#EXTINF:-1,[B][COLOR white]Globo News FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18776
+#EXTINF:-1,[B][COLOR white]Globo News HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18651
+#EXTINF:-1,[B][COLOR white]Globo News SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18652
+#EXTINF:-1,[B][COLOR white]Globo Nordeste FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18376
+#EXTINF:-1,[B][COLOR white]Globo Nordeste HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18423
+#EXTINF:-1,[B][COLOR white]Globo Nordeste SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18424
+#EXTINF:-1,[B][COLOR white]Globo RBS Porto Alegre FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18374
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Caxias do Sul FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18343
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Caxias do Sul HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18342
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Caxias do Sul SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18341
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Pelotas FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18337
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Pelotas HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18336
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Pelotas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18335
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Porto Alegre HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18419
+#EXTINF:-1,[B][COLOR white]Globo RBS TV Porto Alegre SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18420
+#EXTINF:-1,[B][COLOR white]Globo RJ FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18415
+#EXTINF:-1,[B][COLOR white]Globo RJ HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18416
+#EXTINF:-1,[B][COLOR white]Globo RJ SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18417
+#EXTINF:-1,[B][COLOR white]Globo RPC Curitiba FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18412
+#EXTINF:-1,[B][COLOR white]Globo RPC Curitiba HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18413
+#EXTINF:-1,[B][COLOR white]Globo RPC Curitiba SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18414
+#EXTINF:-1,[B][COLOR white]Globo Rede Amazonas Manaus SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18418
+#EXTINF:-1,[B][COLOR white]Globo SP FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18409
+#EXTINF:-1,[B][COLOR white]Globo SP HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18410
+#EXTINF:-1,[B][COLOR white]Globo SP SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18411
+#EXTINF:-1,[B][COLOR white]Globo TV Anhanguera FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18373
+#EXTINF:-1,[B][COLOR white]Globo TV Anhanguera HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18407
+#EXTINF:-1,[B][COLOR white]Globo TV Anhanguera SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18408
+#EXTINF:-1,[B][COLOR white]Globo TV Bahia FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18372
+#EXTINF:-1,[B][COLOR white]Globo TV Bahia HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18405
+#EXTINF:-1,[B][COLOR white]Globo TV Bahia SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18406
+#EXTINF:-1,[B][COLOR white]Globo TV C. America Cuiaba SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18404
+#EXTINF:-1,[B][COLOR white]Globo TV Cabo Branco FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18334
+#EXTINF:-1,[B][COLOR white]Globo TV Cabo Branco HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18333
+#EXTINF:-1,[B][COLOR white]Globo TV Cabo Branco SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18332
+#EXTINF:-1,[B][COLOR white]Globo TV Clube Teresina FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18387
+#EXTINF:-1,[B][COLOR white]Globo TV Clube Teresina HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18386
+#EXTINF:-1,[B][COLOR white]Globo TV Clube Teresina SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18388
+#EXTINF:-1,[B][COLOR white]Globo TV Diario Fortaleza FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18740
+#EXTINF:-1,[B][COLOR white]Globo TV Diario Fortaleza HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18490
+#EXTINF:-1,[B][COLOR white]Globo TV Diario Fortaleza SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18489
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Alagoas FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18363
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Alagoas HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18362
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Alagoas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18364
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Sul ES FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18361
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Sul ES HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18360
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Vitoria FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18384
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Vitoria HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18383
+#EXTINF:-1,[B][COLOR white]Globo TV Gazeta Vitoria SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18385
+#EXTINF:-1,[B][COLOR white]Globo TV Liberal Belem SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18403
+#EXTINF:-1,[B][COLOR white]Globo TV Mirante Sao Luis FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18371
+#EXTINF:-1,[B][COLOR white]Globo TV Mirante Sao Luis HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18370
+#EXTINF:-1,[B][COLOR white]Globo TV Mirante Sao Luis SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18369
+#EXTINF:-1,[B][COLOR white]Globo TV Moreno Campo Grande FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18368
+#EXTINF:-1,[B][COLOR white]Globo TV Moreno Campo Grande HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18367
+#EXTINF:-1,[B][COLOR white]Globo TV Moreno Campo Grande SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18366
+#EXTINF:-1,[B][COLOR white]Globo TV Rio Sul FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18331
+#EXTINF:-1,[B][COLOR white]Globo TV Rio Sul HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18330
+#EXTINF:-1,[B][COLOR white]Globo TV Rio Sul SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18329
+#EXTINF:-1,[B][COLOR white]Globo TV Santa Cruz FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18328
+#EXTINF:-1,[B][COLOR white]Globo TV Santa Cruz HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18327
+#EXTINF:-1,[B][COLOR white]Globo TV Santa Cruz SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18326
+#EXTINF:-1,[B][COLOR white]Globo TV Sergipe FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18381
+#EXTINF:-1,[B][COLOR white]Globo TV Sergipe HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18380
+#EXTINF:-1,[B][COLOR white]Globo TV Sergipe SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18382
+#EXTINF:-1,[B][COLOR white]Globo TV TEM Bauru SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18402
+#EXTINF:-1,[B][COLOR white]Globo TV TEM S. J. Rio Preto FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18365
+#EXTINF:-1,[B][COLOR white]Globo TV TEM S. J. do Rio Preto HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18400
+#EXTINF:-1,[B][COLOR white]Globo TV TEM S. J. do Rio Preto SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18399
+#EXTINF:-1,[B][COLOR white]Globo TV TEM Sorocaba SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18401
+#EXTINF:-1,[B][COLOR white]Globo TV Tribuna Santas SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18398
+#EXTINF:-1,[B][COLOR white]Globo TV Vanguarda S. J. dos Campos SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18397
+#EXTINF:-1,[B][COLOR white]Globo TV Verdes Mares Fortaleza SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18396
+#EXTINF:-1,[B][COLOR white]Gloob FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18775
+#EXTINF:-1,[B][COLOR white]Gloob HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18649
+#EXTINF:-1,[B][COLOR white]Gloob SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18650
+#EXTINF:-1,[B][COLOR white]Gloobinho FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18828
+#EXTINF:-1,[B][COLOR white]Gloobinho HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18648
+#EXTINF:-1,[B][COLOR white]Gloobinho SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18647
+#EXTINF:-1,[B][COLOR white]H2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18826
+#EXTINF:-1,[B][COLOR white]H2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18643
+#EXTINF:-1,[B][COLOR white]H2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18644
+#EXTINF:-1,[B][COLOR white]HBO 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18774
+#EXTINF:-1,[B][COLOR white]HBO 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18640
+#EXTINF:-1,[B][COLOR white]HBO 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18641
+#EXTINF:-1,[B][COLOR white]HBO FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18773
+#EXTINF:-1,[B][COLOR white]HBO Family FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18825
+#EXTINF:-1,[B][COLOR white]HBO Family HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18638
+#EXTINF:-1,[B][COLOR white]HBO Family SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18639
+#EXTINF:-1,[B][COLOR white]HBO HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18637
+#EXTINF:-1,[B][COLOR white]HBO Plus FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18824
+#EXTINF:-1,[B][COLOR white]HBO Plus HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18635
+#EXTINF:-1,[B][COLOR white]HBO Plus SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18636
+#EXTINF:-1,[B][COLOR white]HBO SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18642
+#EXTINF:-1,[B][COLOR white]HBO Signature FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18823
+#EXTINF:-1,[B][COLOR white]HBO Signature HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18633
+#EXTINF:-1,[B][COLOR white]HBO Signature SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18634
+#EXTINF:-1,[B][COLOR white]HIT TV HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/2513
+#EXTINF:-1,[B][COLOR white]History Channel FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18822
+#EXTINF:-1,[B][COLOR white]History Channel HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18631
+#EXTINF:-1,[B][COLOR white]History Channel SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18632
+#EXTINF:-1,[B][COLOR white]ID: Investigacao Discovery FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18821
+#EXTINF:-1,[B][COLOR white]ID: Investigacao Discovery HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18629
+#EXTINF:-1,[B][COLOR white]ID: Investigacao Discovery SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18630
+#EXTINF:-1,[B][COLOR white]Libertadores 1 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19175
+#EXTINF:-1,[B][COLOR white]Libertadores 1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19174
+#EXTINF:-1,[B][COLOR white]Lifetime FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18820
+#EXTINF:-1,[B][COLOR white]Lifetime HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18627
+#EXTINF:-1,[B][COLOR white]Lifetime SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18628
+#EXTINF:-1,[B][COLOR white]MTV FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18815
+#EXTINF:-1,[B][COLOR white]MTV HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18615
+#EXTINF:-1,[B][COLOR white]MTV Live FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18814
+#EXTINF:-1,[B][COLOR white]MTV Live HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18507
+#EXTINF:-1,[B][COLOR white]MTV Live SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18508
+#EXTINF:-1,[B][COLOR white]MTV SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18616
+#EXTINF:-1,[B][COLOR white]Mais GloboSat FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18754
+#EXTINF:-1,[B][COLOR white]Mais GloboSat HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18625
+#EXTINF:-1,[B][COLOR white]Mais GloboSat SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18626
+#EXTINF:-1,[B][COLOR white]Max FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18819
+#EXTINF:-1,[B][COLOR white]Max HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18623
+#EXTINF:-1,[B][COLOR white]Max Prime FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18818
+#EXTINF:-1,[B][COLOR white]Max Prime HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18621
+#EXTINF:-1,[B][COLOR white]Max Prime SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18622
+#EXTINF:-1,[B][COLOR white]Max SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18624
+#EXTINF:-1,[B][COLOR white]Max UP FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18817
+#EXTINF:-1,[B][COLOR white]Max UP HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18619
+#EXTINF:-1,[B][COLOR white]Max UP SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18620
+#EXTINF:-1,[B][COLOR white]Megapix FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18816
+#EXTINF:-1,[B][COLOR white]Megapix HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18617
+#EXTINF:-1,[B][COLOR white]Megapix SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18618
+#EXTINF:-1,[B][COLOR white]Multishow FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18813
+#EXTINF:-1,[B][COLOR white]Multishow HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18613
+#EXTINF:-1,[B][COLOR white]Multishow SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18614
+#EXTINF:-1,[B][COLOR white]Music Box Brasil FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18812
+#EXTINF:-1,[B][COLOR white]Music Box Brasil HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18611
+#EXTINF:-1,[B][COLOR white]Music Box Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18612
+#EXTINF:-1,[B][COLOR white]NBR SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18604
+#EXTINF:-1,[B][COLOR white]NatGeo Kids FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18810
+#EXTINF:-1,[B][COLOR white]NatGeo Kids HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18607
+#EXTINF:-1,[B][COLOR white]NatGeo Kids SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18608
+#EXTINF:-1,[B][COLOR white]NatGeo Wild FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18809
+#EXTINF:-1,[B][COLOR white]NatGeo Wild HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18606
+#EXTINF:-1,[B][COLOR white]NatGeo Wild SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18605
+#EXTINF:-1,[B][COLOR white]National Geographic FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18811
+#EXTINF:-1,[B][COLOR white]National Geographic HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18609
+#EXTINF:-1,[B][COLOR white]National Geographic SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18610
+#EXTINF:-1,[B][COLOR white]Nick Jr FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18808
+#EXTINF:-1,[B][COLOR white]Nick Jr HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18602
+#EXTINF:-1,[B][COLOR white]Nick Jr SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18603
+#EXTINF:-1,[B][COLOR white]Nickelodeon FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18807
+#EXTINF:-1,[B][COLOR white]Nickelodeon HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18600
+#EXTINF:-1,[B][COLOR white]Nickelodeon SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18601
+#EXTINF:-1,[B][COLOR white]OFF FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18806
+#EXTINF:-1,[B][COLOR white]OFF HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18598
+#EXTINF:-1,[B][COLOR white]OFF SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18599
+#EXTINF:-1,[B][COLOR white]Paramount FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18805
+#EXTINF:-1,[B][COLOR white]Paramount HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18596
+#EXTINF:-1,[B][COLOR white]Paramount SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18597
+#EXTINF:-1,[B][COLOR white][XXX] PlayBoy FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18787
+#EXTINF:-1,[B][COLOR white]PlayKids FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18747
+#EXTINF:-1,[B][COLOR white]PlayKids HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18499
+#EXTINF:-1,[B][COLOR white]PlayKids SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18498
+#EXTINF:-1,[B][COLOR white]Premiere 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18772
+#EXTINF:-1,[B][COLOR white]Premiere 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18594
+#EXTINF:-1,[B][COLOR white]Premiere 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18595
+#EXTINF:-1,[B][COLOR white]Premiere 3 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18771
+#EXTINF:-1,[B][COLOR white]Premiere 3 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18592
+#EXTINF:-1,[B][COLOR white]Premiere 3 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18593
+#EXTINF:-1,[B][COLOR white]Premiere 4 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18770
+#EXTINF:-1,[B][COLOR white]Premiere 4 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18590
+#EXTINF:-1,[B][COLOR white]Premiere 4 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18591
+#EXTINF:-1,[B][COLOR white]Premiere 5 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18769
+#EXTINF:-1,[B][COLOR white]Premiere 5 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18588
+#EXTINF:-1,[B][COLOR white]Premiere 5 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18589
+#EXTINF:-1,[B][COLOR white]Premiere 6 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18768
+#EXTINF:-1,[B][COLOR white]Premiere 6 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18586
+#EXTINF:-1,[B][COLOR white]Premiere 6 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18587
+#EXTINF:-1,[B][COLOR white]Premiere 7 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18767
+#EXTINF:-1,[B][COLOR white]Premiere 7 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18584
+#EXTINF:-1,[B][COLOR white]Premiere 7 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18585
+#EXTINF:-1,[B][COLOR white]Premiere Clubes FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18766
+#EXTINF:-1,[B][COLOR white]Premiere Clubes HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18582
+#EXTINF:-1,[B][COLOR white]Premiere Clubes SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18583
+#EXTINF:-1,[B][COLOR white]Prime Box Brasil FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18804
+#EXTINF:-1,[B][COLOR white]Prime Box Brasil HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18580
+#EXTINF:-1,[B][COLOR white]Prime Box Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18581
+#EXTINF:-1,[B][COLOR white]Record News FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18803
+#EXTINF:-1,[B][COLOR white]Record News HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18577
+#EXTINF:-1,[B][COLOR white]Record News SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18578
+#EXTINF:-1,[B][COLOR white]RecordTV BA FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18745
+#EXTINF:-1,[B][COLOR white]RecordTV BA HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18496
+#EXTINF:-1,[B][COLOR white]RecordTV BA SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18495
+#EXTINF:-1,[B][COLOR white]RecordTV DF FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18744
+#EXTINF:-1,[B][COLOR white]RecordTV DF HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18494
+#EXTINF:-1,[B][COLOR white]RecordTV DF SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18493
+#EXTINF:-1,[B][COLOR white]RecordTV MG FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18749
+#EXTINF:-1,[B][COLOR white]RecordTV MG HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18501
+#EXTINF:-1,[B][COLOR white]RecordTV MG SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18500
+#EXTINF:-1,[B][COLOR white]RecordTV RS FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18743
+#EXTINF:-1,[B][COLOR white]RecordTV RS HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18492
+#EXTINF:-1,[B][COLOR white]RecordTV RS SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18491
+#EXTINF:-1,[B][COLOR white]RecordTV Rio FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18748
+#EXTINF:-1,[B][COLOR white]RecordTV Rio HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18503
+#EXTINF:-1,[B][COLOR white]RecordTV Rio SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18502
+#EXTINF:-1,[B][COLOR white]RecordTV SP[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18576
+#EXTINF:-1,[B][COLOR white]RecordTV SP FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18765
+#EXTINF:-1,[B][COLOR white]RecordTV SP HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18575
+#EXTINF:-1,[B][COLOR white]RecordTV SP SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18579
+#EXTINF:-1,[B][COLOR white]Rede Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18574
+#EXTINF:-1,[B][COLOR white]Rede Vida FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18750
+#EXTINF:-1,[B][COLOR white]Rede Vida HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18504
+#EXTINF:-1,[B][COLOR white]Rede Vida SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18571
+#EXTINF:-1,[B][COLOR white]RedeTV! FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18751
+#EXTINF:-1,[B][COLOR white]RedeTV! HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18572
+#EXTINF:-1,[B][COLOR white]RedeTV! SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18573
+#EXTINF:-1,[B][COLOR white]SBT FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18764
+#EXTINF:-1,[B][COLOR white]SBT HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18569
+#EXTINF:-1,[B][COLOR white]SBT SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18570
+#EXTINF:-1,[B][COLOR white]SBT SP Interior SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18568
+#EXTINF:-1,[B][COLOR white]Sony FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18850
+#EXTINF:-1,[B][COLOR white]Sony HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18714
+#EXTINF:-1,[B][COLOR white]Sony SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18715
+#EXTINF:-1,[B][COLOR white]Space FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18802
+#EXTINF:-1,[B][COLOR white]Space HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18564
+#EXTINF:-1,[B][COLOR white]Space SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18565
+#EXTINF:-1,[B][COLOR white]SporTV 2 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18763
+#EXTINF:-1,[B][COLOR white]SporTV 2 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18561
+#EXTINF:-1,[B][COLOR white]SporTV 2 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18562
+#EXTINF:-1,[B][COLOR white]SporTV 3 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18762
+#EXTINF:-1,[B][COLOR white]SporTV 3 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18559
+#EXTINF:-1,[B][COLOR white]SporTV 3 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18560
+#EXTINF:-1,[B][COLOR white]SporTV FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18761
+#EXTINF:-1,[B][COLOR white]SporTV HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18558
+#EXTINF:-1,[B][COLOR white]SporTV SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18563
+#EXTINF:-1,[B][COLOR white]Studio Universal FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18801
+#EXTINF:-1,[B][COLOR white]Studio Universal HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18556
+#EXTINF:-1,[B][COLOR white]Studio Universal SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18557
+#EXTINF:-1,[B][COLOR white]Syfy FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18800
+#EXTINF:-1,[B][COLOR white]Syfy HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18566
+#EXTINF:-1,[B][COLOR white]Syfy SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18567
+#EXTINF:-1,[B][COLOR white]TBS FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18799
+#EXTINF:-1,[B][COLOR white]TBS HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18554
+#EXTINF:-1,[B][COLOR white]TBS SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18555
+#EXTINF:-1,[B][COLOR white]TCM SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18553
+#EXTINF:-1,[B][COLOR white]TLC FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18797
+#EXTINF:-1,[B][COLOR white]TLC HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18538
+#EXTINF:-1,[B][COLOR white]TLC SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18539
+#EXTINF:-1,[B][COLOR white]TNT FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18796
+#EXTINF:-1,[B][COLOR white]TNT HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18536
+#EXTINF:-1,[B][COLOR white]TNT SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18537
+#EXTINF:-1,[B][COLOR white]TNT Series FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18795
+#EXTINF:-1,[B][COLOR white]TNT Series HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18534
+#EXTINF:-1,[B][COLOR white]TNT Series SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18535
+#EXTINF:-1,[B][COLOR white]TV Aparecida SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18530
+#EXTINF:-1,[B][COLOR white]TV Brasil SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18529
+#EXTINF:-1,[B][COLOR white]TV Camara SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18528
+#EXTINF:-1,[B][COLOR white]TV Cultura FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18752
+#EXTINF:-1,[B][COLOR white]TV Cultura HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18505
+#EXTINF:-1,[B][COLOR white]TV Cultura SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18506
+#EXTINF:-1,[B][COLOR white]TV Escola SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18527
+#EXTINF:-1,[B][COLOR white]TV Gazeta SP HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18526
+#EXTINF:-1,[B][COLOR white]TV Justica SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18531
+#EXTINF:-1,[B][COLOR white]TV Ra-Tim-Bum FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18793
+#EXTINF:-1,[B][COLOR white]TV Ra-Tim-Bum HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18524
+#EXTINF:-1,[B][COLOR white]TV Ra-Tim-Bum SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18525
+#EXTINF:-1,[B][COLOR white]TV Senado SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18532
+#EXTINF:-1,[B][COLOR white]Telecine Action FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18760
+#EXTINF:-1,[B][COLOR white]Telecine Action HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18551
+#EXTINF:-1,[B][COLOR white]Telecine Action SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18552
+#EXTINF:-1,[B][COLOR white]Telecine Cult FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18798
+#EXTINF:-1,[B][COLOR white]Telecine Cult HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18549
+#EXTINF:-1,[B][COLOR white]Telecine Cult SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18550
+#EXTINF:-1,[B][COLOR white]Telecine Fun FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18759
+#EXTINF:-1,[B][COLOR white]Telecine Fun HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18547
+#EXTINF:-1,[B][COLOR white]Telecine Fun SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18548
+#EXTINF:-1,[B][COLOR white]Telecine Pipoca FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18758
+#EXTINF:-1,[B][COLOR white]Telecine Pipoca HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18545
+#EXTINF:-1,[B][COLOR white]Telecine Pipoca SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18546
+#EXTINF:-1,[B][COLOR white]Telecine Premium FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18757
+#EXTINF:-1,[B][COLOR white]Telecine Premium HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18543
+#EXTINF:-1,[B][COLOR white]Telecine Premium SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18544
+#EXTINF:-1,[B][COLOR white]Telecine Touch FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18756
+#EXTINF:-1,[B][COLOR white]Telecine Touch HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18541
+#EXTINF:-1,[B][COLOR white]Telecine Touch SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18542
+#EXTINF:-1,[B][COLOR white]Terra Viva SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18540
+#EXTINF:-1,[B][COLOR white]Tooncast SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18533
+#EXTINF:-1,[B][COLOR white]TruTV FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18794
+#EXTINF:-1,[B][COLOR white]TruTV HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18522
+#EXTINF:-1,[B][COLOR white]TruTV SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18523
+#EXTINF:-1,[B][COLOR white]Universal Channel FH[/COLOR][/B]D
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18792
+#EXTINF:-1,[B][COLOR white]Universal Channel HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18520
+#EXTINF:-1,[B][COLOR white]Universal Channel SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18521
+#EXTINF:-1,[B][COLOR white]VH1 FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18791
+#EXTINF:-1,[B][COLOR white]VH1 HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18518
+#EXTINF:-1,[B][COLOR white]VH1 MegaHits SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18517
+#EXTINF:-1,[B][COLOR white]VH1 SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18519
+#EXTINF:-1,[B][COLOR white]Viva FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18755
+#EXTINF:-1,[B][COLOR white]Viva HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18515
+#EXTINF:-1,[B][COLOR white]Viva SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18516
+#EXTINF:-1,[B][COLOR white]Warner Channel FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18790
+#EXTINF:-1,[B][COLOR white]Warner Channel HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18513
+#EXTINF:-1,[B][COLOR white]Warner Channel SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18514
+#EXTINF:-1,[B][COLOR white]Woohoo FHD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18789
+#EXTINF:-1,[B][COLOR white]Woohoo HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18511
+#EXTINF:-1,[B][COLOR white]Woohoo SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18512
+#EXTINF:-1,[B][COLOR white][24H] Aladdin[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19223
+#EXTINF:-1,[B][COLOR white][24H] As Meninas Superpod[/COLOR][/B]erosas
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19222
+#EXTINF:-1,[B][COLOR white][24H] As Tartarugas Ninjas[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19221
+#EXTINF:-1,[B][COLOR white][24H] Ben 10[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19219
+#EXTINF:-1,[B][COLOR white][24H] Bob Esponja[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19220
+#EXTINF:-1,[B][COLOR white][24H] Caverna do Dragao[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19216
+#EXTINF:-1,[B][COLOR white][24H] Chaves[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19218
+#EXTINF:-1,[B][COLOR white][24H] Chaves Desenho Ani[/COLOR][/B]mado
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19217
+#EXTINF:-1,[B][COLOR white][24H] Coragem - O Cao Covarde[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19215
+#EXTINF:-1,[B][COLOR white][24H] Dennis - O Pimentinha[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19214
+#EXTINF:-1,[B][COLOR white][24H] Digimon[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19213
+#EXTINF:-1,[B][COLOR white][24H] Dois Homens e Meio[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19212
+#EXTINF:-1,[B][COLOR white][24H] Dragon Ball Super[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19179
+#EXTINF:-1,[B][COLOR white][24H] Dragon Ball Z[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19211
+#EXTINF:-1,[B][COLOR white][24H] Eu a Patroa e as Crianças[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19177
+#EXTINF:-1,[B][COLOR white][24H] Galinha Pintadinha[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19210
+#EXTINF:-1,[B][COLOR white][24H] Gospel Cartoon[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19209
+#EXTINF:-1,[B][COLOR white][24H] He-Man[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19208
+#EXTINF:-1,[B][COLOR white][24H] Historias da Disne[/COLOR][/B]y
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19207
+#EXTINF:-1,[B][COLOR white][24H] Homem-Aranha[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19206
+#EXTINF:-1,[B][COLOR white][24H] Jaspion[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19205
+#EXTINF:-1,[B][COLOR white][24H] Jiraya[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19204
+#EXTINF:-1,[B][COLOR white][24H] Medabots[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19203
+#EXTINF:-1,[B][COLOR white][24H] Naruto[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19202
+#EXTINF:-1,[B][COLOR white][24H] Naruto Shippuden[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19201
+#EXTINF:-1,[B][COLOR white][24H] O Inspertor[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19200
+#EXTINF:-1,[B][COLOR white][24H] O Maskara[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19199
+#EXTINF:-1,[B][COLOR white][24H] Os Cavaleiros do Zodi[/COLOR][/B]aco
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19197
+#EXTINF:-1,[B][COLOR white][24H] Os Flintstones[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19196
+#EXTINF:-1,[B][COLOR white][24H] Os Simpsons[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19195
+#EXTINF:-1,[B][COLOR white][24H] Papa-Leguas[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19176
+#EXTINF:-1,[B][COLOR white][24H] Pernalonga[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19194
+#EXTINF:-1,[B][COLOR white][24H] Phineas e Ferb[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19193
+#EXTINF:-1,[B][COLOR white][24H] Pica-Pau[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19192
+#EXTINF:-1,[B][COLOR white][24H] Rambo[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19191
+#EXTINF:-1,[B][COLOR white][24H] Scooby Doo[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19190
+#EXTINF:-1,[B][COLOR white][24H] South Park[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19189
+#EXTINF:-1,[B][COLOR white][24H] Steven Universo[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19188
+#EXTINF:-1,[B][COLOR white][24H] Tesouros da Disney[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19187
+#EXTINF:-1,[B][COLOR white][24H] Thundercats[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19178
+#EXTINF:-1,[B][COLOR white][24H] Timao e Pumba[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19186
+#EXTINF:-1,[B][COLOR white][24H] Todo Mundo Odeia o Chris[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19185
+#EXTINF:-1,[B][COLOR white][24H] Tom e Jerry[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19184
+#EXTINF:-1,[B][COLOR white][24H] Um Maluco no Pedaço[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19183
+#EXTINF:-1,[B][COLOR white][24H] Ursinhos Carinhosos[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19182
+#EXTINF:-1,[B][COLOR white][24H] X-Men[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19181
+#EXTINF:-1,[B][COLOR white][24H] Yu-Gi-Oh![/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19180
