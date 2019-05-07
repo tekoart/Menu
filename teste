@@ -1,6 +1,6 @@
                        <item>
                        <title>TELECINE PREMIUM</title>
-                       <link>http://79.124.59.218:1935/liveedge/ch24-2/playlist.m3u8</link>
+                       <sportsdevil>http://tvonlineaovivo.net/assistir-telecine-premium-ao-vivo/</sportsdevil>
                        <referer>http://www.tv-msn.com/</referer>
                        <thumbnail>http://payload.cargocollective.com/1/1/61138/729269/PREMIUM_assinatura.jpg</thumbnail>
                        </item>
@@ -42,7 +42,7 @@
  
                        <item>
                     <title>HBO (1)</title>
-                    <link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+                    <sportsdevil>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</sportsdevil>
                      <regex>
                      <name>m3u8</name>
                      <expres>file: '([^']*)</expres>
@@ -60,7 +60,7 @@
  
                       <item>  
                       <title>HBO (2)</title>
-                     <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPATH] swfUrl=http://abcast.biz/playercanal.swf pageUrl=http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360 live=1</link>
+                     <sportsdevil>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPATH] swfUrl=http://abcast.biz/playercanal.swf pageUrl=http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360 live=1</sportsdevil>
                      <regex>
                      <name>getRTMP</name>
                      <expres>streamer: "(.*?)"</expres>
@@ -117,7 +117,7 @@
                        
                         <item>
                      <title>HBO SIGNATURE</title>
-                     <link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+                     <sportsdevil>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</sportsdevil>
                      <regex>
                      <name>m3u8</name>
                      <expres>file: '([^']*)</expres>
@@ -149,7 +149,7 @@
                        
                         <item>
                         <title>MAXPRIME</title>
-                        <link>http://185.109.162.20:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8?wmsAuthSign=$doregex[get-auth]</link>
+                        <sportsdevil>http://185.109.162.20:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8?wmsAuthSign=$doregex[get-auth]</sportsdevil>
                         <regex>
                         <name>get-auth</name>
                         <expres>wmsAuthSign=(.*)</expres>
