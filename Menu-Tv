@@ -28,7 +28,13 @@
 <fanart>https://www.sportindustry.biz/sites/default/files/images/news/DAZN%20%26%20PERFORM.png</fanart>
 <info>youtube</info>
 </channel>
-
+<channel>
+<name>Teste</name>
+<thumbnail>http://www.vale.com/brasil/PT/initiatives/innovation/s11d/PublishingImages/teste/teste_180_1_20160906114812.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Menu/master/teste</externallink>
+<fanart></fanart>
+<info>Tv Fogo HD</info>
+</channel>
 
 
 
