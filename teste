@@ -1,4 +1,341 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iTWF9UT.png" group-title="Que Rei sou Eu ?",Episódio 01
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=https://www.dailymotion.com/video/xqpapr?playlist=x3tlw3
+                       <item>
+                       <title>TELECINE PREMIUM</title>
+                       <link>http://79.124.59.218:1935/liveedge/ch24-2/playlist.m3u8</link>
+                       <referer>http://www.tv-msn.com/</referer>
+                       <thumbnail>http://payload.cargocollective.com/1/1/61138/729269/PREMIUM_assinatura.jpg</thumbnail>
+                       </item>
+                                                     
+                       <item>
+                       <title>TELECINE PIPOCA</title>
+                       <sportsdevil>http://tv-msn.com/pipoca.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://blogtelevisual.com/wp-content/uploads/2010/11/identidade_telecine_2010_22.jpg</thumbnail>
+                       </item>
+                     
+                       <item>
+                       <title>TELECINE ACTION </title>
+                       <sportsdevil>http://tv-msn.com/action.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://i1.wp.com/exorbeo.com/wp-content/uploads/2013/06/novos-horarios-telecine-action.jpg</thumbnail>
+                       </item>
+                     
+                       <item>
+                       <title>TELECINE TOUCH</title>
+                       <sportsdevil>http://tv-msn.com/touch.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif</thumbnail>
+                       </item>
+                     
+                       <item>
+                       <title>TELECINE FUN</title>
+                       <sportsdevil>http://tv-msn.com/fun.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://www.portalhdtvemfortaleza.com.br/wp-content/uploads/2011/10/FUN_fundo_claro.jpg</thumbnail>
+                       </item>
+                       
+                       <item>
+                       <title>TELECINE CULT</title>
+                       <sportsdevil>http://tv-msn.com/tccult.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://exorbeo.com/wp-content/uploads/blogger/-IXN_BQ6TYUA/UHZHgtLVQ9I/AAAAAAAAF78/RyMeiKUZTvA/s1600/Telecine%2Bcult%2Bhd%2Bna%2Bclaro.jpg</thumbnail>
+                       </item>
+ 
+                       <item>
+                    <title>HBO (1)</title>
+                    <link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+                     <regex>
+                     <name>m3u8</name>
+                     <expres>file: '([^']*)</expres>
+                     <page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=34&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
+                     <referer>http://ekostreams.co/ch/pfc3.php?width=468&amp;height=386</referer>
+                     </regex>
+                     <regex>
+                     <name>page</name>
+                     <expres>file='([^']*)</expres>
+                     <page>http://ekostreams.co/ch/pfc3.php?width=468&amp;height=386</page>
+                     <referer> </referer>
+                     </regex>
+                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2000px-HBO-Logo.svg.png</thumbnail>
+                     </item>              
+ 
+                      <item>  
+                      <title>HBO (2)</title>
+                     <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPATH] swfUrl=http://abcast.biz/playercanal.swf pageUrl=http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360 live=1</link>
+                     <regex>
+                     <name>getRTMP</name>
+                     <expres>streamer: "(.*?)"</expres>
+                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
+                     <referer>http://tv-aovivo.nl/hbo.html</referer>
+                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
+                     </regex>
+                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2000px-HBO-Logo.svg.png</thumbnail>
+ 
+                     <regex>
+                     <name>getPATH</name>
+                     <expres>file: "(.*?)"</expres>
+                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
+                     <referer>http://tv-aovivo.nl/hbo.html</referer>
+                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
+                     </regex>
+ 
+                     <regex>
+                     <name>getAPP</name>
+                     <expres>(redirect.*?)"</expres>
+                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
+                     <referer>http://tv-aovivo.nl/hbo.html</referer>
+                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
+                     </regex>
+ 
+                     <regex>
+                     <name>getPageFile</name>
+                     <expres>file='(.*?)'</expres>
+                     <page>http://tv-aovivo.nl/hbo.html</page>
+                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
+                     </regex>
+                     </item>  
+                                             
+                        <item>
+                        <title>HBO2</title>
+                        <sportsdevil>http://www.tv-msn.com/hbo2.html</sportsdevil>
+                        <referer>http://www.tv-msn.com/hbo2.php</referer>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png</thumbnail>
+                        </item>
+                   
+                        <item>
+                        <title>HBO PLUS</title>
+                        <sportsdevil>http://tv-msn.com/hboplus.html</sportsdevil>
+                        <referer>http://tv-msn.com/</referer>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
+                        </item>
+                       
+                        <item>
+                        <title>HBO FAMILY</title>
+                        <sportsdevil>http://tv-msn.com/hbofamily.html</sportsdevil>
+                        <referer>http://tv-msn.com/</referer>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
+                        </item>
+                       
+                        <item>
+                     <title>HBO SIGNATURE</title>
+                     <link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+                     <regex>
+                     <name>m3u8</name>
+                     <expres>file: '([^']*)</expres>
+                     <page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=34&amp;width=468&amp;height=360&amp;jwplayer=mpegdash</page>
+                     <referer>http://tv-msn.com/hbosignature2.php</referer>
+                     </regex>
+                     <regex>
+                     <name>page</name>
+                     <expres>file='([^']*)</expres>
+                     <page>http://tv-msn.com/hbosignature2.php</page>
+                     <referer> </referer>
+                     </regex>
+                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png</thumbnail>
+                     </item>
+                   
+                        <item>
+                        <title>AMC</title>
+                        <sportsdevil>http://tv-msn.com/amc.html</sportsdevil>
+                        <referer>http://tv-msn.com/</referer>
+                        <thumbnail>https://heyjupitercomms.files.wordpress.com/2015/04/amc-logo.jpg</thumbnail>
+                        </item>
+                       
+                        <item>
+                        <title>MAX UP</title>
+                        <sportsdevil>http://tv-msn.com/maxhd.html</sportsdevil>
+                        <referer>http://tv-msn.com/</referer>
+                        <thumbnail>http://www.lyngsat-logo.com/hires/mm/max_up_lam.png</thumbnail>
+                        </item>
+                       
+                        <item>
+                        <title>MAXPRIME</title>
+                        <link>http://185.109.162.20:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8?wmsAuthSign=$doregex[get-auth]</link>
+                        <regex>
+                        <name>get-auth</name>
+                        <expres>wmsAuthSign=(.*)</expres>
+                        <page>http://pxstream.tv/embedrouter.php?file=canaldenumerodois&width=468&height=380&jwplayer=flash</page>
+                       <referer>http://tv-aovivo.nl/maxprime.html</referer>
+                       </regex>
+                       <thumbnail>http://mixdeseries.com.br/wp-content/uploads/2015/01/max_prime_oeste.png</thumbnail>
+                       </item>
+                       
+                       <item>
+                       <title>CINEMAX</title>
+                       <sportsdevil>http://tv-msn.com/cinemax.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png</thumbnail>
+                       </item>
+                   
+                       <item>
+                       <title>TNT</title>
+                       <sportsdevil>http://tv-msn.com/tnt.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://logonoid.com/images/tnt-logo.png</thumbnail>
+                       </item>
+                     
+                       <item>
+                       <title>FOX</title>
+                       <sportsdevil>http://79.124.59.218:1935/liveedge/ch25-2/playlist.m3u8</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://www.matheuscolen.com/wp-content/uploads/2013/11/FOX-TV-logo.png</thumbnail>
+                       </item>
+                     
+                       <item>
+                       <title>FX</title>
+                       <sportsdevil>http://tv-msn.com/fx.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://teleseries.com.br/wp-content/uploads/2013/08/fx-tv-channel-logo.jpg</thumbnail>
+                       </item>
+                   
+                       <item>
+                       <title>TLC</title>
+                       <sportsdevil>http://tv-msn.com/tlc.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://www.logoeps.net/wp-content/uploads/2012/04/tls-logo.jpg</thumbnail>
+                       </item>
+               
+                       <item>
+                       <title>SPACE</title>
+                       <sportsdevil>http://tv-msn.com/space.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://exorbeo.com/wp-content/uploads/blogger/_BApoZF-JLXk/S8XnPrUna3I/AAAAAAAAAF4/nb-O5lm4QA4/s1600/Space_Hcolor.JPG</thumbnail>
+                       </item>
+               
+                       <item>
+                       <title>WARNERTV</title>
+                       <sportsdevil>http://tv-msn.com/warnerb.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png/revision/latest?cb=20120212152553</thumbnail>
+                       </item>
+ 
+                       <item>
+                       <title>VIVA</title>
+                       <sportsdevil>http://163.172.41.217:8081/loadbalance/64812581796155912158/playlist.m3u8</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://4.bp.blogspot.com/-ypfDQo_rz9U/Ut6iGWNzkOI/AAAAAAAAg_Q/-K5H32inz80/s1600/canal+viva.png</thumbnail>
+                       </item>
+ 
+                       <item>
+                       <title>MEGAPIX</title>
+                       <sportsdevil>http://tv-msn.com/megapix.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://1.bp.blogspot.com/-MAjJVpxaDcY/UtsNnE19GiI/AAAAAAAAg44/ZVdOM42V_ew/s1600/Megapix.png</thumbnail>
+                       </item>
+             
+                       <item>
+                       <title>UNIVERSAL CHANNEL</title>
+                       <sportsdevil>http://tv-msn.com/universal.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://talkmediaafrica.com/wp-content/uploads/2013/04/Universal-Channel-new-logo.jpg</thumbnail>
+                       </item>
+             
+                       <item>
+                       <title>STUDIO UNIVERSAL</title>
+                       <sportsdevil>http://tv-msn.com/studio.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png</thumbnail>
+                       </item>
+ 
+                       <item>
+                       <title>AXN</title>
+                       <sportsdevil>http://tv-msn.com/axn.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://1.bp.blogspot.com/_kS39sqrm_fI/TGmDtiS_8bI/AAAAAAAAA3o/JD-1Vpzjwss/s1600/AXN.png</thumbnail>
+                       </item>
+                   
+                       <item>
+                       <title>ISAT</title>
+                       <sportsdevil>http://www.tv-msn.com/isat2.php</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ISat.svg/1280px-ISat.svg.png</thumbnail>
+                       </item>
+ 
+                        </channel> 
+   
+                    <channel>
+                    <name>[COLOR lime]INFANTIL[/COLOR]</name>
+                    <fanart>http://4.bp.blogspot.com/-6Y2_ZIDm8I0/VC23EUn7GII/AAAAAAAAczI/x3Yrs9nGMU4/s1600/canais-logos-2014.jpg</fanart>
+                    <thumbnail>http://4.bp.blogspot.com/-6Y2_ZIDm8I0/VC23EUn7GII/AAAAAAAAczI/x3Yrs9nGMU4/s1600/canais-logos-2014.jpg</thumbnail>
+ 
+                       <item>
+                       <title>CARTOON NETWORK</title>
+                       <sportsdevil>http://tv-msn.com/cartoon.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png</thumbnail>
+                       </item>
+                 
+                       <item>
+                       <title>Discovery Kids</title>
+                       <sportsdevil>http://www.cdnbr.biz/mastertv/Discovery%20Kids.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557</thumbnail>
+                       </item>
+               
+                       <item>
+                       <title>Disney Channel</title>
+                       <sportsdevil>http://tv-msn.com/disney.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f1/Disney-hed-2014.jpg</thumbnail>
+                       </item>
+                 
+                       <item>
+                       <title>NICK JR</title>
+                       <sportsdevil>http://tv-msn.com/nickjr.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png</thumbnail>
+                       </item>
+             
+                       <item>
+                       <title>Disney Junior</title>
+                       <sportsdevil>http://tv-msn.com/disneyjr.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://vignette2.wikia.nocookie.net/disney-junior-random-episodes/images/1/1f/Disney-Junior-Logo-Doc-McStuffins-Variation-disney-junior-33345290-960-540.jpg/revision/latest?cb=20130128220212</thumbnail>
+                       </item>
+ 
+                       <item>
+                       <title>Nickelodeon</title>
+                       <sportsdevil>http://tv-msn.com/nick.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/2000px-Nickelodeon_Logo.svg.png</thumbnail>
+                       </item>
+           
+                       <item>
+                       <title>TOONCAST</title>
+                       <sportsdevil>http://tv-msn.com/tooncast.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://www.lamac.org/res/channels/logos/_0001_tooncast.png</thumbnail>
+                       </item>
+     
+                       <item>
+                       <title>Gloob</title>
+                       <sportsdevil>http://tv-msn.com/gloob.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png</thumbnail>
+                       </item>
+               
+                       <item>
+                       <title>Disney XD</title>
+                       <sportsdevil>http://www.tv-msn.com/disneyxd.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png</thumbnail>
+                       </item>
+                 
+                       <item>
+                       <title>BABYTV</title>
+                       <sportsdevil>http://www.tv-msn.com/babytv2.php</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043</thumbnail>
+                       </item>
+                 
+                       <item>
+                       <title>Boomerang</title>
+                       <sportsdevil>http://www.tv-msn.com/boomerang2.php</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://img2.wikia.nocookie.net/__cb20140209204759/logopedia/images/b/b9/2010_BOOMERANG_LOGO.jpg</thumbnail>
+                       </item>
+             
+                       <item>
+                       <title>Ratibum</title>
+                       <sportsdevil>http://tv-msn.com/ratimbum.html</sportsdevil>
+                       <referer>http://tv-msn.com/</referer>
+                       <thumbnail>http://midia.cmais.com.br/displays/1d32adfe2e0fe5adee24659ae3faef87d223cd78.png</thumbnail>
+                       </item>
