@@ -1,341 +1,878 @@
-                       <item>
-                       <title>TELECINE PREMIUM</title>
-                       <sportsdevil>http://tvonlineaovivo.net/assistir-telecine-premium-ao-vivo/</sportsdevil>
-                       <referer>http://www.tv-msn.com/</referer>
-                       <thumbnail>http://payload.cargocollective.com/1/1/61138/729269/PREMIUM_assinatura.jpg</thumbnail>
-                       </item>
-                                                     
-                       <item>
-                       <title>TELECINE PIPOCA</title>
-                       <sportsdevil>http://tv-msn.com/pipoca.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://blogtelevisual.com/wp-content/uploads/2010/11/identidade_telecine_2010_22.jpg</thumbnail>
-                       </item>
-                     
-                       <item>
-                       <title>TELECINE ACTION </title>
-                       <sportsdevil>http://tv-msn.com/action.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://i1.wp.com/exorbeo.com/wp-content/uploads/2013/06/novos-horarios-telecine-action.jpg</thumbnail>
-                       </item>
-                     
-                       <item>
-                       <title>TELECINE TOUCH</title>
-                       <sportsdevil>http://tv-msn.com/touch.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif</thumbnail>
-                       </item>
-                     
-                       <item>
-                       <title>TELECINE FUN</title>
-                       <sportsdevil>http://tv-msn.com/fun.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://www.portalhdtvemfortaleza.com.br/wp-content/uploads/2011/10/FUN_fundo_claro.jpg</thumbnail>
-                       </item>
-                       
-                       <item>
-                       <title>TELECINE CULT</title>
-                       <sportsdevil>http://tv-msn.com/tccult.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://exorbeo.com/wp-content/uploads/blogger/-IXN_BQ6TYUA/UHZHgtLVQ9I/AAAAAAAAF78/RyMeiKUZTvA/s1600/Telecine%2Bcult%2Bhd%2Bna%2Bclaro.jpg</thumbnail>
-                       </item>
+<item>
+
+<item>
+<title>BBB 19</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bbb19-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/MvkAWdR.jpg</thumbnail>
+<fanart>https://i.imgur.com/MvkAWdR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ALL SPORTS</title>
+<link>http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8</link>
+<thumbnail>https://i.imgur.com/z9VVP70.jpg</thumbnail>
+<fanart>https://i.imgur.com/z9VVP70.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>A & E</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/aie-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/XuDoOXS.jpg</thumbnail>
+<fanart>https://i.imgur.com/XuDoOXS.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>AMC</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/amc-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/OvjF8HF.png</thumbnail>
+<fanart>https://i.imgur.com/OvjF8HF.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/animalplanet-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/xqYpIPt.png</thumbnail>
+<fanart>https://i.imgur.com/xqYpIPt.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>ARTE 1</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/arte1-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/kE2Qvu5.jpg</thumbnail>
+<fanart>https://i.imgur.com/kE2Qvu5.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>AXN</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/axn-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/OiQe2Rv.jpg</thumbnail>
+<fanart>https://i.imgur.com/OiQe2Rv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BAND</title>
+<link>https://dclxfxbp5trg5.cloudfront.net//hls1/band-sd.m3u8|Referer=http://www.redemice.me/</link>
+<thumbnail>https://i.imgur.com/FjG0QJT.jpg</thumbnail>
+<fanart>https://i.imgur.com/FjG0QJT.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BAND NEWS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bandnews-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/yCDqc2B.jpg</thumbnail>
+<fanart>https://i.imgur.com/yCDqc2B.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>BAND SPORTS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bandsports-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/XpxDGKm.jpg</thumbnail>
+<fanart>https://i.imgur.com/XpxDGKm.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BIS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bis-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/eBIxtW7.png</thumbnail>
+<fanart>https://i.imgur.com/eBIxtW7.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>BOOMERANG</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/boomerang-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/6yOgV7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/6yOgV7v.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/cartoon-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8lckbgk.jpg</thumbnail>
+<fanart>https://i.imgur.com/8lckbgk.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/cinemax-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/DlhL9JS.png</thumbnail>
+<fanart>https://i.imgur.com/DlhL9JS.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>COMBATE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/combate-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JmAsiut.jpg</thumbnail>
+<fanart>https://i.imgur.com/JmAsiut.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>COMEDY CENTRAL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/comedycentral-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/1QLjDWM.jpg</thumbnail>
+<fanart>https://i.imgur.com/1QLjDWM.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>CURTA!</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/curta-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/uzmUVBi.jpg</thumbnail>
+<fanart>https://i.imgur.com/uzmUVBi.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discovery-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/sRBKLzH.jpg</thumbnail>
+<fanart>https://i.imgur.com/sRBKLzH.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY CIVILIZATION</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoverycivilization-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/CNJwZXR.jpg</thumbnail>
+<fanart>https://i.imgur.com/CNJwZXR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY HOME & HEALTH</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoveryhomeihealth-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jdReKg7.jpg</thumbnail>
+<fanart>https://i.imgur.com/jdReKg7.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY KIDS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoverykids-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qSZFDAQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/qSZFDAQ.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoverysience-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ZlEpb7I.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZlEpb7I.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY THEATER</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoverytheater-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/cvhXljQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/cvhXljQ.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoveryturbo-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/IoDJ6ol.jpg</thumbnail>
+<fanart>https://i.imgur.com/IoDJ6ol.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY WORLD</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/discoveryworld-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WtjGxA7.jpg</thumbnail>
+<fanart>https://i.imgur.com/WtjGxA7.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY JUNIOR</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/disneyjunior-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ueLN8ux.jpg</thumbnail>
+<fanart>https://i.imgur.com/ueLN8ux.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/disney-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/CYugmrL.jpg</thumbnail>
+<fanart>https://i.imgur.com/CYugmrL.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY XD</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/disneyxd-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jsxjbHR.jpg</thumbnail>
+<fanart>https://i.imgur.com/jsxjbHR.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>ESPN</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/espn-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Nv89giH.jpg</thumbnail>
+<fanart>https://i.imgur.com/Nv89giH.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/espn2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jsd1dHk.jpg</thumbnail>
+<fanart>https://i.imgur.com/jsd1dHk.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN BRASIL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/espnbrasil-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/QYcKJF9.jpg</thumbnail>
+<fanart>https://i.imgur.com/QYcKJF9.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ESPN +</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/espnmais-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/9EKFVGU.jpg</thumbnail>
+<fanart>https://i.imgur.com/9EKFVGU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FISH TV</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/fishtv-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/p6c3zNT.jpg</thumbnail>
+<fanart>https://i.imgur.com/p6c3zNT.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/fox-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/x77jtIn.jpg</thumbnail>
+<fanart>https://i.imgur.com/x77jtIn.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX LIFE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/foxlife-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/VWaNabH.jpg</thumbnail>
+<fanart>https://i.imgur.com/VWaNabH.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX PREMIUM 1</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/foxpremium1-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/BjuXDvK.jpg</thumbnail>
+<fanart>https://i.imgur.com/BjuXDvK.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX PREMIUM 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/foxpremium2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/A8yGlBg.jpg</thumbnail>
+<fanart>https://i.imgur.com/A8yGlBg.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/foxsports1-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/EJ6EyuF.png</thumbnail>
+<fanart>https://i.imgur.com/EJ6EyuF.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/foxsports2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/zrkp9ht.jpg</thumbnail>
+<fanart>https://i.imgur.com/zrkp9ht.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>FX</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/fx-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/iN5cZCj.png</thumbnail>
+<fanart>https://i.imgur.com/iN5cZCj.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>GLOBO RJ</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/boborj-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
  
-                       <item>
-                    <title>HBO (1)</title>
-                    <sportsdevil>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</sportsdevil>
-                     <regex>
-                     <name>m3u8</name>
-                     <expres>file: '([^']*)</expres>
-                     <page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=34&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
-                     <referer>http://ekostreams.co/ch/pfc3.php?width=468&amp;height=386</referer>
-                     </regex>
-                     <regex>
-                     <name>page</name>
-                     <expres>file='([^']*)</expres>
-                     <page>http://ekostreams.co/ch/pfc3.php?width=468&amp;height=386</page>
-                     <referer> </referer>
-                     </regex>
-                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2000px-HBO-Logo.svg.png</thumbnail>
-                     </item>              
+<item>
+<title>GLOBO SP</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bobosp-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>GLOBO NORDESTE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/bobonordeste-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/v0NRClD.jpg</thumbnail>
+<fanart>https://i.imgur.com/v0NRClD.jpg</fanart>
+<info></info>
+</item>
  
-                      <item>  
-                      <title>HBO (2)</title>
-                     <sportsdevil>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPATH] swfUrl=http://abcast.biz/playercanal.swf pageUrl=http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360 live=1</sportsdevil>
-                     <regex>
-                     <name>getRTMP</name>
-                     <expres>streamer: "(.*?)"</expres>
-                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
-                     <referer>http://tv-aovivo.nl/hbo.html</referer>
-                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-                     </regex>
-                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/2000px-HBO-Logo.svg.png</thumbnail>
+<item>
+<title>GLOBONEWS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/globonews-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/TEsfWPn.jpg</thumbnail>
+<fanart>https://i.imgur.com/TEsfWPn.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>GLOOB</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/gloob-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Ly601Bf.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ly601Bf.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>GNT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/gnt-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/HlD8ANP.jpg</thumbnail>
+<fanart>https://i.imgur.com/HlD8ANP.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>GOSPEL CARTOON</title>
+<link>http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8</link>
+<thumbnail>https://i.imgur.com/veZsgJL.jpg</thumbnail>
+<fanart>https://i.imgur.com/veZsgJL.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/hbo-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/UfOhilk.jpg</thumbnail>
+<fanart>https://i.imgur.com/UfOhilk.jpg</fanart>
+<info></info>
+</item>
  
-                     <regex>
-                     <name>getPATH</name>
-                     <expres>file: "(.*?)"</expres>
-                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
-                     <referer>http://tv-aovivo.nl/hbo.html</referer>
-                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-                     </regex>
+<item>
+<title>HBO 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/hbo2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qTjnWHA.jpg</thumbnail>
+<fanart>https://i.imgur.com/qTjnWHA.jpg</fanart>
+<info></info>
+</item>
  
-                     <regex>
-                     <name>getAPP</name>
-                     <expres>(redirect.*?)"</expres>
-                     <page>http://abcast.net/wp.php?file=$doregex[getPageFile]&amp;width=468&amp;height=360</page>
-                     <referer>http://tv-aovivo.nl/hbo.html</referer>
-                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-                     </regex>
+<item>
+<title>HBO FAMILY</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/hbofamily-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8siGgl9.png</thumbnail>
+<fanart>https://i.imgur.com/8siGgl9.png</fanart>
+<info></info>
+</item>
  
-                     <regex>
-                     <name>getPageFile</name>
-                     <expres>file='(.*?)'</expres>
-                     <page>http://tv-aovivo.nl/hbo.html</page>
-                     <agent>Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</agent>
-                     </regex>
-                     </item>  
-                                             
-                        <item>
-                        <title>HBO2</title>
-                        <sportsdevil>http://www.tv-msn.com/hbo2.html</sportsdevil>
-                        <referer>http://www.tv-msn.com/hbo2.php</referer>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png</thumbnail>
-                        </item>
-                   
-                        <item>
-                        <title>HBO PLUS</title>
-                        <sportsdevil>http://tv-msn.com/hboplus.html</sportsdevil>
-                        <referer>http://tv-msn.com/</referer>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png</thumbnail>
-                        </item>
-                       
-                        <item>
-                        <title>HBO FAMILY</title>
-                        <sportsdevil>http://tv-msn.com/hbofamily.html</sportsdevil>
-                        <referer>http://tv-msn.com/</referer>
-                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
-                        </item>
-                       
-                        <item>
-                     <title>HBO SIGNATURE</title>
-                     <sportsdevil>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</sportsdevil>
-                     <regex>
-                     <name>m3u8</name>
-                     <expres>file: '([^']*)</expres>
-                     <page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=34&amp;width=468&amp;height=360&amp;jwplayer=mpegdash</page>
-                     <referer>http://tv-msn.com/hbosignature2.php</referer>
-                     </regex>
-                     <regex>
-                     <name>page</name>
-                     <expres>file='([^']*)</expres>
-                     <page>http://tv-msn.com/hbosignature2.php</page>
-                     <referer> </referer>
-                     </regex>
-                     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png</thumbnail>
-                     </item>
-                   
-                        <item>
-                        <title>AMC</title>
-                        <sportsdevil>http://tv-msn.com/amc.html</sportsdevil>
-                        <referer>http://tv-msn.com/</referer>
-                        <thumbnail>https://heyjupitercomms.files.wordpress.com/2015/04/amc-logo.jpg</thumbnail>
-                        </item>
-                       
-                        <item>
-                        <title>MAX UP</title>
-                        <sportsdevil>http://tv-msn.com/maxhd.html</sportsdevil>
-                        <referer>http://tv-msn.com/</referer>
-                        <thumbnail>http://www.lyngsat-logo.com/hires/mm/max_up_lam.png</thumbnail>
-                        </item>
-                       
-                        <item>
-                        <title>MAXPRIME</title>
-                        <sportsdevil>http://185.109.162.20:8081/loadbalance/tvmsnmaxxprime/playlist.m3u8?wmsAuthSign=$doregex[get-auth]</sportsdevil>
-                        <regex>
-                        <name>get-auth</name>
-                        <expres>wmsAuthSign=(.*)</expres>
-                        <page>http://pxstream.tv/embedrouter.php?file=canaldenumerodois&width=468&height=380&jwplayer=flash</page>
-                       <referer>http://tv-aovivo.nl/maxprime.html</referer>
-                       </regex>
-                       <thumbnail>http://mixdeseries.com.br/wp-content/uploads/2015/01/max_prime_oeste.png</thumbnail>
-                       </item>
-                       
-                       <item>
-                       <title>CINEMAX</title>
-                       <sportsdevil>http://tv-msn.com/cinemax.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png</thumbnail>
-                       </item>
-                   
-                       <item>
-                       <title>TNT</title>
-                       <sportsdevil>http://tv-msn.com/tnt.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://logonoid.com/images/tnt-logo.png</thumbnail>
-                       </item>
-                     
-                       <item>
-                       <title>FOX</title>
-                       <sportsdevil>http://79.124.59.218:1935/liveedge/ch25-2/playlist.m3u8</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://www.matheuscolen.com/wp-content/uploads/2013/11/FOX-TV-logo.png</thumbnail>
-                       </item>
-                     
-                       <item>
-                       <title>FX</title>
-                       <sportsdevil>http://tv-msn.com/fx.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://teleseries.com.br/wp-content/uploads/2013/08/fx-tv-channel-logo.jpg</thumbnail>
-                       </item>
-                   
-                       <item>
-                       <title>TLC</title>
-                       <sportsdevil>http://tv-msn.com/tlc.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://www.logoeps.net/wp-content/uploads/2012/04/tls-logo.jpg</thumbnail>
-                       </item>
-               
-                       <item>
-                       <title>SPACE</title>
-                       <sportsdevil>http://tv-msn.com/space.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://exorbeo.com/wp-content/uploads/blogger/_BApoZF-JLXk/S8XnPrUna3I/AAAAAAAAAF4/nb-O5lm4QA4/s1600/Space_Hcolor.JPG</thumbnail>
-                       </item>
-               
-                       <item>
-                       <title>WARNERTV</title>
-                       <sportsdevil>http://tv-msn.com/warnerb.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/12/Warner_tv_asia.png/revision/latest?cb=20120212152553</thumbnail>
-                       </item>
+<item>
+<title>HBO PLUS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/hboplus-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/QQa8utN.jpg</thumbnail>
+<fanart>https://i.imgur.com/QQa8utN.jpg</fanart>
+<info></info>
+</item>
  
-                       <item>
-                       <title>VIVA</title>
-                       <sportsdevil>http://163.172.41.217:8081/loadbalance/64812581796155912158/playlist.m3u8</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://4.bp.blogspot.com/-ypfDQo_rz9U/Ut6iGWNzkOI/AAAAAAAAg_Q/-K5H32inz80/s1600/canal+viva.png</thumbnail>
-                       </item>
+<item>
+<title>HBO SIGNATURE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/hbosignature-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/eoqk7QC.jpg</thumbnail>
+<fanart>https://i.imgur.com/eoqk7QC.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>HISTORY</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/history-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/e9Rb09S.jpg</thumbnail>
+<fanart>https://i.imgur.com/e9Rb09S.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HISTORY 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/history2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/zJxejbD.jpg</thumbnail>
+<fanart>https://i.imgur.com/zJxejbD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>HIT TV</title>
+<link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
+<thumbnail>https://i.imgur.com/k6N2Kk0.jpg</thumbnail>
+<fanart>https://i.imgur.com/k6N2Kk0.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>INVESTIGAÇÃO DISCOVERY</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/investigacaodiscovery-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/FPlErM7.jpg</thumbnail>
+<fanart>https://i.imgur.com/FPlErM7.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>LIFETIME</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/lifetime-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2dKrVAo.jpg</thumbnail>
+<fanart>https://i.imgur.com/2dKrVAo.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MAIS GLOBOSAT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/maisbobosat-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2nAtXfq.jpg</thumbnail>
+<fanart>https://i.imgur.com/2nAtXfq.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MTV</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/mtv-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ly3aDFe.jpg</thumbnail>
+<fanart>https://i.imgur.com/ly3aDFe.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MAX</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/max-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JxGYkQ6.jpg</thumbnail>
+<fanart>https://i.imgur.com/JxGYkQ6.jpg</fanart>
+<info></info>
+</item>
  
-                       <item>
-                       <title>MEGAPIX</title>
-                       <sportsdevil>http://tv-msn.com/megapix.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://1.bp.blogspot.com/-MAjJVpxaDcY/UtsNnE19GiI/AAAAAAAAg44/ZVdOM42V_ew/s1600/Megapix.png</thumbnail>
-                       </item>
-             
-                       <item>
-                       <title>UNIVERSAL CHANNEL</title>
-                       <sportsdevil>http://tv-msn.com/universal.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://talkmediaafrica.com/wp-content/uploads/2013/04/Universal-Channel-new-logo.jpg</thumbnail>
-                       </item>
-             
-                       <item>
-                       <title>STUDIO UNIVERSAL</title>
-                       <sportsdevil>http://tv-msn.com/studio.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png</thumbnail>
-                       </item>
+<item>
+<title>MAX UP</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/maxup-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2yDpA0K.jpg</thumbnail>
+<fanart>https://i.imgur.com/2yDpA0K.jpg</fanart>
+<info></info>
+</item>
  
-                       <item>
-                       <title>AXN</title>
-                       <sportsdevil>http://tv-msn.com/axn.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://1.bp.blogspot.com/_kS39sqrm_fI/TGmDtiS_8bI/AAAAAAAAA3o/JD-1Vpzjwss/s1600/AXN.png</thumbnail>
-                       </item>
-                   
-                       <item>
-                       <title>ISAT</title>
-                       <sportsdevil>http://www.tv-msn.com/isat2.php</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ISat.svg/1280px-ISat.svg.png</thumbnail>
-                       </item>
+<item>
+<title>MAXPRIME</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/maxprime-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/wbIJKTR.jpg</thumbnail>
+<fanart>https://i.imgur.com/wbIJKTR.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MEGAPIX</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/megapix-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/PgCN7Nh.jpg</thumbnail>
+<fanart>https://i.imgur.com/PgCN7Nh.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>MULTISHOW</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/multishow-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/E1aUZL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/E1aUZL6.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NASA</title>
+<link>https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/</link>
+<thumbnail>https://i.imgur.com/HCGajO9.jpg</thumbnail>
+<fanart>https://i.imgur.com/HCGajO9.jpg</fanart>
+<info></info>
+</item>
  
-                        </channel> 
-   
-                    <channel>
-                    <name>[COLOR lime]INFANTIL[/COLOR]</name>
-                    <fanart>http://4.bp.blogspot.com/-6Y2_ZIDm8I0/VC23EUn7GII/AAAAAAAAczI/x3Yrs9nGMU4/s1600/canais-logos-2014.jpg</fanart>
-                    <thumbnail>http://4.bp.blogspot.com/-6Y2_ZIDm8I0/VC23EUn7GII/AAAAAAAAczI/x3Yrs9nGMU4/s1600/canais-logos-2014.jpg</thumbnail>
+<item>
+<title>NASA ISS</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4993sBLAzGA</link>
+<thumbnail>https://i.imgur.com/FKk74yY.jpg</thumbnail>
+<fanart>https://i.imgur.com/FKk74yY.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NAT GEO KIDS</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/natgeokids-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/JqRLpHF.jpg</thumbnail>
+<fanart>https://i.imgur.com/JqRLpHF.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/natgeowind-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Uxb6LJ1.jpg</thumbnail>
+<fanart>https://i.imgur.com/Uxb6LJ1.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/natgeo-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/477ECEn.jpg</thumbnail>
+<fanart>https://i.imgur.com/477ECEn.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>NICK JR</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/nickjr-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/2dBLCa8.jpg</thumbnail>
+<fanart>https://i.imgur.com/2dBLCa8.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>NICKELODEON</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/nick-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Rv4Cf5U.jpg</thumbnail>
+<fanart>https://i.imgur.com/Rv4Cf5U.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>OFF</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/off-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/iTGeloB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iTGeloB.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PARAMOUNT CHANNEL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/paramount-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/q4tBgBv.jpg</thumbnail>
+<fanart>https://i.imgur.com/q4tBgBv.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>PREMIERE 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 3</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere3-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 4</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere4-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 5</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere5-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 6</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere6-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 7</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere7-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 8</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere8-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE 9</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiere9-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>PREMIERE CLUBES</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/premiereclubes-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/WCnHl7O.jpg</thumbnail>
+<fanart>https://i.imgur.com/WCnHl7O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>RECORD TV</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/recordsp-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/xb57YV5.png</thumbnail>
+<fanart>https://i.imgur.com/xb57YV5.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>SBT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/sbt-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/TtyPfv6.jpg</thumbnail>
+<fanart>https://i.imgur.com/TtyPfv6.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SONY</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/sony-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/9JGRdFU.jpg</thumbnail>
+<fanart>https://i.imgur.com/9JGRdFU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPACE</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/space-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/kcATPqs.jpg</thumbnail>
+<fanart>https://i.imgur.com/kcATPqs.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>SPORTV</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/sportv1-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/MOsc0dD.jpg</thumbnail>
+<fanart>https://i.imgur.com/MOsc0dD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/sportv2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Mn51rbn.jpg</thumbnail>
+<fanart>https://i.imgur.com/Mn51rbn.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SPORTV 3</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/sportv3-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/k681Ox4.jpg</thumbnail>
+<fanart>https://i.imgur.com/k681Ox4.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>STUDIO UNIVERSAL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/studiouniversal-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/RCCfpp9.jpg</thumbnail>
+<fanart>https://i.imgur.com/RCCfpp9.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>SYFY</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/syfy-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/k1Z0ByG.jpg</thumbnail>
+<fanart>https://i.imgur.com/k1Z0ByG.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TCM</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/tcm-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/gjDBFFa.jpg</thumbnail>
+<fanart>https://i.imgur.com/gjDBFFa.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TLC</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/tlc-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/gkYnyLv.png</thumbnail>
+<fanart>https://i.imgur.com/gkYnyLv.png</fanart>
+<info></info>
+</item>
  
-                       <item>
-                       <title>CARTOON NETWORK</title>
-                       <sportsdevil>http://tv-msn.com/cartoon.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>                      <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png</thumbnail>
-                       </item>
-                 
-                       <item>
-                       <title>Discovery Kids</title>
-                       <sportsdevil>http://www.cdnbr.biz/mastertv/Discovery%20Kids.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557</thumbnail>
-                       </item>
-               
-                       <item>
-                       <title>Disney Channel</title>
-                       <sportsdevil>http://tv-msn.com/disney.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f1/Disney-hed-2014.jpg</thumbnail>
-                       </item>
-                 
-                       <item>
-                       <title>NICK JR</title>
-                       <sportsdevil>http://tv-msn.com/nickjr.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png</thumbnail>
-                       </item>
-             
-                       <item>
-                       <title>Disney Junior</title>
-                       <sportsdevil>http://tv-msn.com/disneyjr.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://vignette2.wikia.nocookie.net/disney-junior-random-episodes/images/1/1f/Disney-Junior-Logo-Doc-McStuffins-Variation-disney-junior-33345290-960-540.jpg/revision/latest?cb=20130128220212</thumbnail>
-                       </item>
+<item>
+<title>TELECINE CULT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecinecult-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/UXlOfXJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/UXlOfXJ.jpg</fanart>
+<info></info>
+</item>
  
-                       <item>
-                       <title>Nickelodeon</title>
-                       <sportsdevil>http://tv-msn.com/nick.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/2000px-Nickelodeon_Logo.svg.png</thumbnail>
-                       </item>
-           
-                       <item>
-                       <title>TOONCAST</title>
-                       <sportsdevil>http://tv-msn.com/tooncast.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://www.lamac.org/res/channels/logos/_0001_tooncast.png</thumbnail>
-                       </item>
-     
-                       <item>
-                       <title>Gloob</title>
-                       <sportsdevil>http://tv-msn.com/gloob.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png</thumbnail>
-                       </item>
-               
-                       <item>
-                       <title>Disney XD</title>
-                       <sportsdevil>http://www.tv-msn.com/disneyxd.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png</thumbnail>
-                       </item>
-                 
-                       <item>
-                       <title>BABYTV</title>
-                       <sportsdevil>http://www.tv-msn.com/babytv2.php</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043</thumbnail>
-                       </item>
-                 
-                       <item>
-                       <title>Boomerang</title>
-                       <sportsdevil>http://www.tv-msn.com/boomerang2.php</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://img2.wikia.nocookie.net/__cb20140209204759/logopedia/images/b/b9/2010_BOOMERANG_LOGO.jpg</thumbnail>
-                       </item>
-             
-                       <item>
-                       <title>Ratibum</title>
-                       <sportsdevil>http://tv-msn.com/ratimbum.html</sportsdevil>
-                       <referer>http://tv-msn.com/</referer>
-                       <thumbnail>http://midia.cmais.com.br/displays/1d32adfe2e0fe5adee24659ae3faef87d223cd78.png</thumbnail>
-                       </item>
+<item>
+<title>TELECINE PREMIUM</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecinepremium-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/3joCklj.jpg</thumbnail>
+<fanart>https://i.imgur.com/3joCklj.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE PIPOCA</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecinepipoca-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/jLLv2tq.jpg</thumbnail>
+<fanart>https://i.imgur.com/jLLv2tq.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE FUN</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecinefun-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/8BE6Qah.jpg</thumbnail>
+<fanart>https://i.imgur.com/8BE6Qah.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE TOUCH</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecinetouch-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/qtVIwLI.jpg</thumbnail>
+<fanart>https://i.imgur.com/qtVIwLI.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TELECINE ACTION</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/telecineaction-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/s1DY4wU.jpg</thumbnail>
+<fanart>https://i.imgur.com/s1DY4wU.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TNT SÉRIES</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/tntseries-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/Lwc0m2u.jpg</thumbnail>
+<fanart>https://i.imgur.com/Lwc0m2u.jpg</fanart>
+<info></info>
+</item>
+ 
+<item>
+<title>TNT</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/tnt-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/AuMosx6.jpg</thumbnail>
+<fanart>https://i.imgur.com/AuMosx6.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TNT 2</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/esporteinterativo1-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/ctrKrvE.jpg</thumbnail>
+<fanart>https://i.imgur.com/ctrKrvE.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TNT 3</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/esporteinterativo2-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/9JszkyD.jpg</thumbnail>
+<fanart>https://i.imgur.com/9JszkyD.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TOONCAST</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/tooncast-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/VHi0zWf.jpg</thumbnail>
+<fanart>https://i.imgur.com/VHi0zWf.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV CANDIDÉS</title>
+<link>https://cdn.jmvstream.com/live/hls/lv_6453/LV6453_bXZTxrPxqo.m3u8</link>
+<thumbnail>https://i.imgur.com/M2l7ipZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/M2l7ipZ.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>TV WEB GUARANI</title>
+<link>http://wsecast.com.br:1935/rtguarany/_definst_/rtguarany/chunklist_w754984332.m3u8</link>
+<thumbnail>https://i.imgur.com/jaeiD4H.jpg</thumbnail>
+<fanart>https://i.imgur.com/jaeiD4H.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>UNIVERSAL</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/universal-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/aAiIx3O.jpg</thumbnail>
+<fanart>https://i.imgur.com/aAiIx3O.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>WARNER</title>
+<link>https://d1rhz34blc0e8a.cloudfront.net//hls1/warner-sd.m3u8|Referer=http://www.miceret.com/contador.php</link>
+<thumbnail>https://i.imgur.com/aOz3yxw.jpg</thumbnail>
+<fanart>https://i.imgur.com/aOz3yxw.jpg</fanart>
+<info></info>
+</item>
