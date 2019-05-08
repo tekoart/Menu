@@ -1,5 +1,5 @@
 #EXTM3U          
-#PLAYLISTV: pltv-logo="https://goo.gl/gNxSX4" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://goo.gl/gNxSX4" pltv-author="Tv Fogo HD IPTV" pltv-site="http://iptv-tvfogohd.zyro.com" pltv-email="moraes84@hotmail.com.br" pltv-phone="
+#PLAYLISTV: pltv-logo="https://i.imgur.com/21sBRKi.png" pltv-name="Tv Fogo HD" pltv-description="Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados." pltv-cover="https://i.imgur.com/21sBRKi.png" pltv-author="Tv Fogo HD IPTV" pltv-site="https://tv-fogo.github.io/HD/" pltv-email="moraes84@hotmail.com.br" pltv-phone="
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS ABERTO",[COLOR yellow][B]CANAIS ABERTO[/B][/COLOR]
 http://0.0.0.0
