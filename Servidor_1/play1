@@ -1,1095 +1,1223 @@
 #EXTM3U
-#EXTINF:-1,Power Couple Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/22121
-#EXTINF:-1,Power Couple Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/22122
-#EXTINF:-1,A&E FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18858
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18738
 #EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18739
-#EXTINF:-1,AMC FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18857
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18736
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4404
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8139
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9344
 #EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18737
-#EXTINF:-1,AXN FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18854
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18730
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7448
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7691
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9343
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20891
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20890
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20893
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20892
+#EXTINF:-1,AGRO CANAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/5983
+#EXTINF:-1,ALL SPORT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6812
+#EXTINF:-1,ALJAZEERA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7550
+#EXTINF:-1,ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4403
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6142
+#EXTINF:-1,ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13205
+#EXTINF:-1,ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20887
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24628
+#EXTINF:-1,ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7904
+#EXTINF:-1,ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10235
+#EXTINF:-1,ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20880
 #EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18731
-#EXTINF:-1,Animal Planet FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18856
-#EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18734
-#EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18735
-#EXTINF:-1,Arte 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18855
-#EXTINF:-1,Arte 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18732
-#EXTINF:-1,Arte 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18733
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18729
-#EXTINF:-1,Band SP FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18786
-#EXTINF:-1,Band SP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18727
-#EXTINF:-1,Band SP SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18728
-#EXTINF:-1,BandNews FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18853
-#EXTINF:-1,BandNews HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18725
-#EXTINF:-1,BandNews SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18726
-#EXTINF:-1,BandSports FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18852
-#EXTINF:-1,BandSports HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18723
-#EXTINF:-1,BandSports SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18724
-#EXTINF:-1,Bis FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18785
-#EXTINF:-1,Bis HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18721
-#EXTINF:-1,Bis SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18722
-#EXTINF:-1,Boomerang FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18851
-#EXTINF:-1,Boomerang HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18718
-#EXTINF:-1,Boomerang SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18719
-#EXTINF:-1,Canal Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18753
-#EXTINF:-1,Canal Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18716
-#EXTINF:-1,Canal Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18717
-#EXTINF:-1,Cancao Nova SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18713
-#EXTINF:-1,Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18849
-#EXTINF:-1,Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18711
-#EXTINF:-1,Cartoon Network SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18712
-#EXTINF:-1,Cinemax FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18848
-#EXTINF:-1,Cinemax HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18709
-#EXTINF:-1,Cinemax SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18710
-#EXTINF:-1,Combate FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18784
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18707
-#EXTINF:-1,Combate SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18708
-#EXTINF:-1,Comedy Central FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18847
-#EXTINF:-1,Comedy Central HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18705
-#EXTINF:-1,Comedy Central SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18706
-#EXTINF:-1,Copa Nordeste 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18477
-#EXTINF:-1,Copa Nordeste 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18476
-#EXTINF:-1,Copa Nordeste 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18475
-#EXTINF:-1,Copa Nordeste 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18474
-#EXTINF:-1,Copa Nordeste 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18473
-#EXTINF:-1,Copa Nordeste 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18472
-#EXTINF:-1,Curta! FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18846
-#EXTINF:-1,Curta! HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18703
-#EXTINF:-1,Curta! SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18704
-#EXTINF:-1,DAZN 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18867
-#EXTINF:-1,DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18864
-#EXTINF:-1,DAZN 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18863
-#EXTINF:-1,DAZN 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18866
-#EXTINF:-1,DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18862
-#EXTINF:-1,DAZN 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18861
-#EXTINF:-1,DAZN 3 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18865
-#EXTINF:-1,DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18860
-#EXTINF:-1,DAZN 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18859
-#EXTINF:-1,Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18783
-#EXTINF:-1,Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18701
-#EXTINF:-1,Discovery Channel SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18702
-#EXTINF:-1,Discovery Civilization FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18845
-#EXTINF:-1,Discovery Civilization HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18699
-#EXTINF:-1,Discovery Civilization SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18700
-#EXTINF:-1,Discovery H&H FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18844
-#EXTINF:-1,Discovery H&H HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18697
-#EXTINF:-1,Discovery H&H SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18698
-#EXTINF:-1,Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18843
-#EXTINF:-1,Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18695
-#EXTINF:-1,Discovery Kids SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18696
-#EXTINF:-1,Discovery Science FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18842
-#EXTINF:-1,Discovery Science HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18693
-#EXTINF:-1,Discovery Science SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18694
-#EXTINF:-1,Discovery Theater FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18841
-#EXTINF:-1,Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18691
-#EXTINF:-1,Discovery Theater SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18692
-#EXTINF:-1,Discovery Turbo FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18840
-#EXTINF:-1,Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18689
-#EXTINF:-1,Discovery Turbo SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18690
-#EXTINF:-1,Discovery World FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18839
-#EXTINF:-1,Discovery World HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18687
-#EXTINF:-1,Discovery World SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18688
-#EXTINF:-1,Disney FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18782
-#EXTINF:-1,Disney HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18685
-#EXTINF:-1,Disney Jr FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18788
-#EXTINF:-1,Disney Jr HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18509
-#EXTINF:-1,Disney Jr SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18684
-#EXTINF:-1,Disney SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18686
-#EXTINF:-1,Disney XD SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18683
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18838
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18681
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4402
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6140
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13212
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20884
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20882
+#EXTINF:-1,ARIRANG TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4407
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4401
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20870
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20871
+#EXTINF:-1,BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4399
+#EXTINF:-1,BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10296
+#EXTINF:-1,BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11536
+#EXTINF:-1,BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20869
+#EXTINF:-1,BAND SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4400
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6882
+#EXTINF:-1,BAND FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25008
+#EXTINF:-1,BAND SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20875
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20874
+#EXTINF:-1,BAND PARANA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24927
+#EXTINF:-1,BAND RJ HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25542
+#EXTINF:-1,BAND ARACAJU HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24752
+#EXTINF:-1,BAND GOIANIA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25019
+#EXTINF:-1,BAND RS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25018
+#EXTINF:-1,BAND TV TAROBA PARANA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24924
+#EXTINF:-1,BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/18203
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4398
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6138
+#EXTINF:-1,BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11535
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20864
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20863
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6964
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6881
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11547
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20868
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20866
+#EXTINF:-1,BLOOMBERG TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7424
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4396
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10294
+#EXTINF:-1,BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11534
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20857
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6963
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10293
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20838
+#EXTINF:-1,CANAL RURAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20837
+#EXTINF:-1,CANAL SONY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4395
+#EXTINF:-1,CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6961
+#EXTINF:-1,CANAL SONY FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13202
+#EXTINF:-1,CANAL SONY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20529
+#EXTINF:-1,CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20527
+#EXTINF:-1,CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6173
+#EXTINF:-1,CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4394
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7817
+#EXTINF:-1,CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13210
+#EXTINF:-1,CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20845
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20844
+#EXTINF:-1,CINEMAX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4393
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7802
+#EXTINF:-1,CINEMAX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24630
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20834
+#EXTINF:-1,CNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20841
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4392
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6172
+#EXTINF:-1,COMBATE FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8152
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20832
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20831
+#EXTINF:-1,COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4391
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10292
+#EXTINF:-1,COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24920
+#EXTINF:-1,COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20828
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20827
+#EXTINF:-1,CNN ESPANHOL
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10290
+#EXTINF:-1,CURTA! SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10291
+#EXTINF:-1,CURTA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20826
+#EXTINF:-1,DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4390
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6132
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11548
+#EXTINF:-1,DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20825
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20824
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10236
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7862
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13208
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20820
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4389
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6131
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11533
+#EXTINF:-1,DISCOVERY HOME & HELTH SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20814
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20813
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4388
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7538
+#EXTINF:-1,DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11532
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20818
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20816
+#EXTINF:-1,DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10237
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7861
+#EXTINF:-1,DISCOVERY SCIENCE FHD(DUAL ADUIO)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13206
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20811
+#EXTINF:-1,DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10289
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6130
+#EXTINF:-1,DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11530
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20806
+#EXTINF:-1,DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4386
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6877
+#EXTINF:-1,DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11531
+#EXTINF:-1,DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20809
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20808
+#EXTINF:-1,DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10288
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6128
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20801
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4385
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7902
+#EXTINF:-1,DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11546
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20799
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20797
+#EXTINF:-1,DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4384
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10286
+#EXTINF:-1,DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13207
+#EXTINF:-1,DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20795
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20794
+#EXTINF:-1,DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4383
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20791
+#EXTINF:-1,DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20792
+#EXTINF:-1,DW SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20790
+#EXTINF:-1,DW SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4425
 #EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18682
-#EXTINF:-1,EI Plus 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18443
-#EXTINF:-1,EI Plus 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18442
-#EXTINF:-1,EI Plus 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18441
-#EXTINF:-1,EI Plus 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18440
-#EXTINF:-1,EI Plus HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18445
-#EXTINF:-1,EI Plus SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18444
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18837
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18678
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4382
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10285
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20789
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20788
 #EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18679
-#EXTINF:-1,ESPN Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18781
-#EXTINF:-1,ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18676
-#EXTINF:-1,ESPN Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18677
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18836
-#EXTINF:-1,ESPN Extra HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18674
-#EXTINF:-1,ESPN Extra SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18675
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18780
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18673
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7988
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6143
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11521
+#EXTINF:-1,ESPN 2  HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20787
+#EXTINF:-1,ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4380
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6124
+#EXTINF:-1,ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11557
+#EXTINF:-1,ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20784
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20783
 #EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18680
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4381
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6127
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11545
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20780
+#EXTINF:-1,FISH TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20773
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20779
+#EXTINF:-1,FISH TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4377
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24788
+#EXTINF:-1,ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24789
+#EXTINF:-1,FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13196
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7534
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20756
+#EXTINF:-1,FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6959
+#EXTINF:-1,FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20757
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9141
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6122
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20759
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4375
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20760
+#EXTINF:-1,FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25009
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6876
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20761
+#EXTINF:-1,FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4374
+#EXTINF:-1,FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20762
+#EXTINF:-1,FOX NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6835
+#EXTINF:-1,FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10279
+#EXTINF:-1,FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20763
+#EXTINF:-1,FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11529
+#EXTINF:-1,FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10278
+#EXTINF:-1,FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20764
+#EXTINF:-1,FOX SPORTS 2 FHD(DUAL ALDIO)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8151
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6117
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20767
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4372
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20768
+#EXTINF:-1,FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11556
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6118
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20771
+#EXTINF:-1,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4373
+#EXTINF:-1,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20772
+#EXTINF:-1,FUTURA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10277
+#EXTINF:-1,FUTURA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20753
 #EXTINF:-1,FX FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18829
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13199
 #EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18653
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6116
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20775
 #EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18654
-#EXTINF:-1,Film & Arts SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18497
-#EXTINF:-1,Fish TV FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18835
-#EXTINF:-1,Fish TV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18671
-#EXTINF:-1,Fish TV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18672
-#EXTINF:-1,Food Network FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18834
-#EXTINF:-1,Food Network HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18669
-#EXTINF:-1,Food Network SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18670
-#EXTINF:-1,Fox FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18779
-#EXTINF:-1,Fox HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18667
-#EXTINF:-1,Fox Life FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18833
-#EXTINF:-1,Fox Life HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18665
-#EXTINF:-1,Fox Life SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18666
-#EXTINF:-1,Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18832
-#EXTINF:-1,Fox Premium 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18663
-#EXTINF:-1,Fox Premium 1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18664
-#EXTINF:-1,Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18831
-#EXTINF:-1,Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18661
-#EXTINF:-1,Fox Premium 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18662
-#EXTINF:-1,Fox SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18668
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18778
-#EXTINF:-1,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18657
-#EXTINF:-1,Fox Sports 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18658
-#EXTINF:-1,Fox Sports FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18777
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18659
-#EXTINF:-1,Fox Sports SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18660
-#EXTINF:-1,Futura FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18830
-#EXTINF:-1,Futura HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18655
-#EXTINF:-1,Futura SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18656
-#EXTINF:-1,Globo RPC Foz do Iguacu FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18390
-#EXTINF:-1,Globo RPC Foz do Iguacu HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18389
-#EXTINF:-1,Globo RPC Foz do Iguacu SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18391
-#EXTINF:-1,GNT FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18827
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4371
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20777
+#EXTINF:-1,GLOBO INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24928
+#EXTINF:-1,GLOBO TV RIO SUL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24757
+#EXTINF:-1,GLOBO TV SERGIPE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24750
+#EXTINF:-1,GLOBO TV SERGIPE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24629
+#EXTINF:-1,GLOBO TV ASA BRANCA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24308
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24631
+#EXTINF:-1,GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10239
+#EXTINF:-1,GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7530
+#EXTINF:-1,GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22769
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10234
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7932
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22767
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9471
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22765
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7528
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22760
+#EXTINF:-1,GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10276
+#EXTINF:-1,GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22761
+#EXTINF:-1,GLOBO EPTV SUL MINAS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22762
+#EXTINF:-1,GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10240
+#EXTINF:-1,GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7527
+#EXTINF:-1,GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22759
+#EXTINF:-1,Globo NSC Florianopolis
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/30227
+#EXTINF:-1,NSC TV  JOINVILE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10232
+#EXTINF:-1,NSC TV BLUMENAU SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/5973
+#EXTINF:-1,GLOBO RBS TV POA FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25011
+#EXTINF:-1,GLOBO RBS TV POA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25007
+#EXTINF:-1,GLOBO RBS TV POA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9469
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10233
+#EXTINF:-1,GLOBO RIO PRETO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9468
+#EXTINF:-1,GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/30230
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6113
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22756
+#EXTINF:-1,GLOBO RJ SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7547
+#EXTINF:-1,GLOBO RJ SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22753
+#EXTINF:-1,GLOBO TV GAZETA ES HD (MANUTENÇÃO)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24959
+#EXTINF:-1,GLOBO TV GAZETA ES SD (MANUTENÇÃO)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24958
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22732
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22735
+#EXTINF:-1,GLOBO FORTALEZA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22734
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22737
+#EXTINF:-1,GLOBO TV VERDES MARES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22733
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7866
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22750
+#EXTINF:-1,GLOBO SOROCABA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7684
+#EXTINF:-1,GLOBO SP FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25012
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7529
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22755
+#EXTINF:-1,GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4431
+#EXTINF:-1,GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22757
+#EXTINF:-1,GLOBO TV ANHANGUERA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10272
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22004
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9465
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22738
+#EXTINF:-1,GLOBO EPTV CENTRAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22006
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22766
+#EXTINF:-1,Globo InterTV Grande Minas
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/30226
+#EXTINF:-1,GLOBO INT SERRA MAR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22005
+#EXTINF:-1,GLOBO INTERTV CABUGI SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22763
+#EXTINF:-1,GLOBO INTERTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22748
+#EXTINF:-1,GLOBO AMAZONICA  HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/21985
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22017
+#EXTINF:-1,GLOBO TV FRONTEIRA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22749
+#EXTINF:-1,GLOBO TV INTEGRACAO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22745
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22736
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22744
+#EXTINF:-1,GLOBO TV SUDOESTE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/22741
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10238
+#EXTINF:-1,GLOBO BAHIA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7539
+#EXTINF:-1,GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25010
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7442
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11043
+#EXTINF:-1,GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4432
+#EXTINF:-1,GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11243
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7526
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20749
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4369
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20750
+#EXTINF:-1,GIDEOES TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25914
+#EXTINF:-1,GLOOBINHO FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25013
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10271
+#EXTINF:-1,GLOOBINHO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20701
+#EXTINF:-1,GLOOBINHO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10270
 #EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18645
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6956
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20752
 #EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18646
-#EXTINF:-1,Globo Brasilia FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18379
-#EXTINF:-1,Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18434
-#EXTINF:-1,Globo Brasilia SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18435
-#EXTINF:-1,Globo EPTV Araraquara SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18433
-#EXTINF:-1,Globo EPTV Campinas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18378
-#EXTINF:-1,Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18431
-#EXTINF:-1,Globo EPTV Campinas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18432
-#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18359
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18430
-#EXTINF:-1,Globo EPTV Ribeirao Preto SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18429
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18428
-#EXTINF:-1,Globo Inter TV Alto Litoral FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18358
-#EXTINF:-1,Globo Inter TV Alto Litoral HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18357
-#EXTINF:-1,Globo Inter TV Alto Litoral SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18356
-#EXTINF:-1,Globo Inter TV Grande Minas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18352
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18351
-#EXTINF:-1,Globo Inter TV Grande Minas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18350
-#EXTINF:-1,Globo Inter TV Natal SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18427
-#EXTINF:-1,Globo Inter TV Serra Mar FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18349
-#EXTINF:-1,Globo Inter TV Serra Mar HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18348
-#EXTINF:-1,Globo Inter TV Serra Mar SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18347
-#EXTINF:-1,Globo Inter TV dos Vales FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18355
-#EXTINF:-1,Globo Inter TV dos Vales HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18354
-#EXTINF:-1,Globo Inter TV dos Vales SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18353
-#EXTINF:-1,Globo Minas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18377
-#EXTINF:-1,Globo Minas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18425
-#EXTINF:-1,Globo Minas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18426
-#EXTINF:-1,Globo NSC TV Blumenau FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18346
-#EXTINF:-1,Globo NSC TV Blumenau HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18345
-#EXTINF:-1,Globo NSC TV Blumenau SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18344
-#EXTINF:-1,Globo NSC TV Chapeco FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18394
-#EXTINF:-1,Globo NSC TV Chapeco HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18393
-#EXTINF:-1,Globo NSC TV Chapeco SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18392
-#EXTINF:-1,Globo NSC TV Florianopolis FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18375
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18421
-#EXTINF:-1,Globo NSC TV Florianopolis SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18422
-#EXTINF:-1,Globo NSC TV Joinville FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18340
-#EXTINF:-1,Globo NSC TV Joinville HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18339
-#EXTINF:-1,Globo NSC TV Joinville SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18338
-#EXTINF:-1,Globo News FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18776
-#EXTINF:-1,Globo News HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18651
-#EXTINF:-1,Globo News SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18652
-#EXTINF:-1,Globo Nordeste FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18376
-#EXTINF:-1,Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18423
-#EXTINF:-1,Globo Nordeste SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18424
-#EXTINF:-1,Globo RBS Porto Alegre FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18374
-#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18343
-#EXTINF:-1,Globo RBS TV Caxias do Sul HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18342
-#EXTINF:-1,Globo RBS TV Caxias do Sul SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18341
-#EXTINF:-1,Globo RBS TV Pelotas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18337
-#EXTINF:-1,Globo RBS TV Pelotas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18336
-#EXTINF:-1,Globo RBS TV Pelotas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18335
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18419
-#EXTINF:-1,Globo RBS TV Porto Alegre SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18420
-#EXTINF:-1,Globo RJ FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18415
-#EXTINF:-1,Globo RJ HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18416
-#EXTINF:-1,Globo RJ SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18417
-#EXTINF:-1,Globo RPC Curitiba FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18412
-#EXTINF:-1,Globo RPC Curitiba HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18413
-#EXTINF:-1,Globo RPC Curitiba SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18414
-#EXTINF:-1,Globo Rede Amazonas Manaus SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18418
-#EXTINF:-1,Globo SP FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18409
-#EXTINF:-1,Globo SP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18410
-#EXTINF:-1,Globo SP SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18411
-#EXTINF:-1,Globo TV Anhanguera FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18373
-#EXTINF:-1,Globo TV Anhanguera HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18407
-#EXTINF:-1,Globo TV Anhanguera SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18408
-#EXTINF:-1,Globo TV Bahia FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18372
-#EXTINF:-1,Globo TV Bahia HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18405
-#EXTINF:-1,Globo TV Bahia SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18406
-#EXTINF:-1,Globo TV C. America Cuiaba SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18404
-#EXTINF:-1,Globo TV Cabo Branco FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18334
-#EXTINF:-1,Globo TV Cabo Branco HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18333
-#EXTINF:-1,Globo TV Cabo Branco SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18332
-#EXTINF:-1,Globo TV Clube Teresina FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18387
-#EXTINF:-1,Globo TV Clube Teresina HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18386
-#EXTINF:-1,Globo TV Clube Teresina SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18388
-#EXTINF:-1,Globo TV Diario Fortaleza FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18740
-#EXTINF:-1,Globo TV Diario Fortaleza HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18490
-#EXTINF:-1,Globo TV Diario Fortaleza SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18489
-#EXTINF:-1,Globo TV Gazeta Alagoas FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18363
-#EXTINF:-1,Globo TV Gazeta Alagoas HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18362
-#EXTINF:-1,Globo TV Gazeta Alagoas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18364
-#EXTINF:-1,Globo TV Gazeta Sul ES FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18361
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18360
-#EXTINF:-1,Globo TV Gazeta Vitoria FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18384
-#EXTINF:-1,Globo TV Gazeta Vitoria HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18383
-#EXTINF:-1,Globo TV Gazeta Vitoria SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18385
-#EXTINF:-1,Globo TV Liberal Belem SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18403
-#EXTINF:-1,Globo TV Mirante Sao Luis FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18371
-#EXTINF:-1,Globo TV Mirante Sao Luis HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18370
-#EXTINF:-1,Globo TV Mirante Sao Luis SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18369
-#EXTINF:-1,Globo TV Moreno Campo Grande FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18368
-#EXTINF:-1,Globo TV Moreno Campo Grande HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18367
-#EXTINF:-1,Globo TV Moreno Campo Grande SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18366
-#EXTINF:-1,Globo TV Rio Sul FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18331
-#EXTINF:-1,Globo TV Rio Sul HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18330
-#EXTINF:-1,Globo TV Rio Sul SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18329
-#EXTINF:-1,Globo TV Santa Cruz FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18328
-#EXTINF:-1,Globo TV Santa Cruz HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18327
-#EXTINF:-1,Globo TV Santa Cruz SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18326
-#EXTINF:-1,Globo TV Sergipe FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18381
-#EXTINF:-1,Globo TV Sergipe HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18380
-#EXTINF:-1,Globo TV Sergipe SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18382
-#EXTINF:-1,Globo TV TEM Bauru SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18402
-#EXTINF:-1,Globo TV TEM S. J. Rio Preto FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18365
-#EXTINF:-1,Globo TV TEM S. J. do Rio Preto HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18400
-#EXTINF:-1,Globo TV TEM S. J. do Rio Preto SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18399
-#EXTINF:-1,Globo TV TEM Sorocaba SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18401
-#EXTINF:-1,Globo TV Tribuna Santas SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18398
-#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18397
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18396
-#EXTINF:-1,Gloob FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18775
-#EXTINF:-1,Gloob HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18649
-#EXTINF:-1,Gloob SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18650
-#EXTINF:-1,Gloobinho FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18828
-#EXTINF:-1,Gloobinho HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18648
-#EXTINF:-1,Gloobinho SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18647
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4368
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20751
 #EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18826
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13187
 #EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18643
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6111
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20698
 #EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18644
-#EXTINF:-1,HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18774
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18640
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18641
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4367
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20700
 #EXTINF:-1,HBO FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18773
-#EXTINF:-1,HBO Family FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18825
-#EXTINF:-1,HBO Family HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18638
-#EXTINF:-1,HBO Family SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18639
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11566
+#EXTINF:-1,HBO HD (LEGENDADO)-ANALISE
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/30228
 #EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18637
-#EXTINF:-1,HBO Plus FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18824
-#EXTINF:-1,HBO Plus HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18635
-#EXTINF:-1,HBO Plus SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18636
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20694
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6108
 #EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18642
-#EXTINF:-1,HBO Signature FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18823
-#EXTINF:-1,HBO Signature HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18633
-#EXTINF:-1,HBO Signature SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18634
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20696
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4366
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11567
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6110
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20690
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4365
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20692
+#EXTINF:-1,HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11568
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6109
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20687
+#EXTINF:-1,HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4364
+#EXTINF:-1,HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20688
+#EXTINF:-1,HBO PLUS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13190
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6106
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20920
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4363
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20684
+#EXTINF:-1,HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11570
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6105
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20678
+#EXTINF:-1,HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4361
+#EXTINF:-1,HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20679
+#EXTINF:-1,HISTORY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13211
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6104
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20468
+#EXTINF:-1,HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4314
+#EXTINF:-1,HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20469
 #EXTINF:-1,HIT TV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/2513
-#EXTINF:-1,History Channel FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18822
-#EXTINF:-1,History Channel HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18631
-#EXTINF:-1,History Channel SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18632
-#EXTINF:-1,ID: Investigacao Discovery FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18821
-#EXTINF:-1,ID: Investigacao Discovery HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18629
-#EXTINF:-1,ID: Investigacao Discovery SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18630
-#EXTINF:-1,Libertadores 1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19175
-#EXTINF:-1,Libertadores 1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19174
-#EXTINF:-1,Lifetime FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18820
-#EXTINF:-1,Lifetime HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18627
-#EXTINF:-1,Lifetime SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18628
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20675
+#EXTINF:-1,IMPD TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25915
+#EXTINF:-1,IDEAL TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20674
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9143
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6869
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4360
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20673
+#EXTINF:-1,LIFETIME FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11540
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7525
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20668
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7876
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20670
+#EXTINF:-1,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9262
+#EXTINF:-1,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20665
+#EXTINF:-1,MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6953
+#EXTINF:-1,MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20666
+#EXTINF:-1,MAX FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13189
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10266
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20662
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4358
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20664
+#EXTINF:-1,MAX PRIME FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25014
+#EXTINF:-1,MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7850
+#EXTINF:-1,MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20657
+#EXTINF:-1,MAX PRIME SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4357
+#EXTINF:-1,MAX PRIME SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20658
+#EXTINF:-1,MAX UP FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25015
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10265
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20659
+#EXTINF:-1,MAX UP SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4355
+#EXTINF:-1,MAX UP SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20660
+#EXTINF:-1,MEGAPIX FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8146
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6101
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20653
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4354
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20654
 #EXTINF:-1,MTV FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18815
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11573
 #EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18615
-#EXTINF:-1,MTV Live FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18814
-#EXTINF:-1,MTV Live HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18507
-#EXTINF:-1,MTV Live SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18508
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7524
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20644
 #EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18616
-#EXTINF:-1,Mais GloboSat FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18754
-#EXTINF:-1,Mais GloboSat HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18625
-#EXTINF:-1,Mais GloboSat SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18626
-#EXTINF:-1,Max FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18819
-#EXTINF:-1,Max HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18623
-#EXTINF:-1,Max Prime FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18818
-#EXTINF:-1,Max Prime HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18621
-#EXTINF:-1,Max Prime SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18622
-#EXTINF:-1,Max SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18624
-#EXTINF:-1,Max UP FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18817
-#EXTINF:-1,Max UP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18619
-#EXTINF:-1,Max UP SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18620
-#EXTINF:-1,Megapix FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18816
-#EXTINF:-1,Megapix HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18617
-#EXTINF:-1,Megapix SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18618
-#EXTINF:-1,Multishow FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18813
-#EXTINF:-1,Multishow HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18613
-#EXTINF:-1,Multishow SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18614
-#EXTINF:-1,Music Box Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18812
-#EXTINF:-1,Music Box Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18611
-#EXTINF:-1,Music Box Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18612
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4353
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20646
+#EXTINF:-1,MULTISHOW FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13201
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6867
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20648
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4352
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20650
+#EXTINF:-1,MUSIC BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7848
+#EXTINF:-1,MUSIC BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20655
+#EXTINF:-1,NATGEO KIDS FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13198
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10261
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20632
+#EXTINF:-1,NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4350
+#EXTINF:-1,NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20642
+#EXTINF:-1,NATGEO WILD FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11528
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6099
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20640
+#EXTINF:-1,NATGEO WILD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4349
+#EXTINF:-1,NATGEO WILD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20641
+#EXTINF:-1,NATIONAL GEOGRAPHY FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13188
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6098
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20629
+#EXTINF:-1,NATIONAL GEOGRAPHY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4348
+#EXTINF:-1,NATIONAL GEOGRAPHY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20630
 #EXTINF:-1,NBR SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18604
-#EXTINF:-1,NatGeo Kids FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18810
-#EXTINF:-1,NatGeo Kids HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18607
-#EXTINF:-1,NatGeo Kids SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18608
-#EXTINF:-1,NatGeo Wild FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18809
-#EXTINF:-1,NatGeo Wild HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18606
-#EXTINF:-1,NatGeo Wild SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18605
-#EXTINF:-1,National Geographic FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18811
-#EXTINF:-1,National Geographic HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18609
-#EXTINF:-1,National Geographic SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18610
-#EXTINF:-1,Nick Jr FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18808
-#EXTINF:-1,Nick Jr HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18602
-#EXTINF:-1,Nick Jr SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18603
-#EXTINF:-1,Nickelodeon FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18807
-#EXTINF:-1,Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18600
-#EXTINF:-1,Nickelodeon SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18601
-#EXTINF:-1,OFF FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18806
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6950
+#EXTINF:-1,NBR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20625
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4347
+#EXTINF:-1,NHK SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6949
+#EXTINF:-1,NICK JR FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11527
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10260
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20631
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4346
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20637
+#EXTINF:-1,NICKELODEON FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11526
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7537
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20635
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4345
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20636
+#EXTINF:-1,NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6948
 #EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18598
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6947
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20622
 #EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18599
-#EXTINF:-1,Paramount FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18805
-#EXTINF:-1,Paramount HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18596
-#EXTINF:-1,Paramount SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18597
-#EXTINF:-1,[XXX] PlayBoy FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18787
-#EXTINF:-1,PlayKids FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18747
-#EXTINF:-1,PlayKids HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18499
-#EXTINF:-1,PlayKids SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18498
-#EXTINF:-1,Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18772
-#EXTINF:-1,Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18594
-#EXTINF:-1,Premiere 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18595
-#EXTINF:-1,Premiere 3 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18771
-#EXTINF:-1,Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18592
-#EXTINF:-1,Premiere 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18593
-#EXTINF:-1,Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18770
-#EXTINF:-1,Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18590
-#EXTINF:-1,Premiere 4 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18591
-#EXTINF:-1,Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18769
-#EXTINF:-1,Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18588
-#EXTINF:-1,Premiere 5 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18589
-#EXTINF:-1,Premiere 6 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18768
-#EXTINF:-1,Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18586
-#EXTINF:-1,Premiere 6 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18587
-#EXTINF:-1,Premiere 7 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18767
-#EXTINF:-1,Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18584
-#EXTINF:-1,Premiere 7 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18585
-#EXTINF:-1,Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18766
-#EXTINF:-1,Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18582
-#EXTINF:-1,Premiere Clubes SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18583
-#EXTINF:-1,Prime Box Brasil FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18804
-#EXTINF:-1,Prime Box Brasil HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18580
-#EXTINF:-1,Prime Box Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18581
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18803
-#EXTINF:-1,Record News HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18577
-#EXTINF:-1,Record News SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18578
-#EXTINF:-1,RecordTV BA FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18745
-#EXTINF:-1,RecordTV BA HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18496
-#EXTINF:-1,RecordTV BA SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18495
-#EXTINF:-1,RecordTV DF FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18744
-#EXTINF:-1,RecordTV DF HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18494
-#EXTINF:-1,RecordTV DF SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18493
-#EXTINF:-1,RecordTV MG FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18749
-#EXTINF:-1,RecordTV MG HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18501
-#EXTINF:-1,RecordTV MG SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18500
-#EXTINF:-1,RecordTV RS FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18743
-#EXTINF:-1,RecordTV RS HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18492
-#EXTINF:-1,RecordTV RS SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18491
-#EXTINF:-1,RecordTV Rio FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18748
-#EXTINF:-1,RecordTV Rio HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18503
-#EXTINF:-1,RecordTV Rio SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18502
-#EXTINF:-1,RecordTV SP
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18576
-#EXTINF:-1,RecordTV SP FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18765
-#EXTINF:-1,RecordTV SP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18575
-#EXTINF:-1,RecordTV SP SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18579
-#EXTINF:-1,Rede Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18574
-#EXTINF:-1,Rede Vida FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18750
-#EXTINF:-1,Rede Vida HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18504
-#EXTINF:-1,Rede Vida SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18571
-#EXTINF:-1,RedeTV! FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18751
-#EXTINF:-1,RedeTV! HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18572
-#EXTINF:-1,RedeTV! SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18573
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18764
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4344
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20623
+#EXTINF:-1,PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13185
+#EXTINF:-1,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6945
+#EXTINF:-1,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20619
+#EXTINF:-1,PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6946
+#EXTINF:-1,PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20621
+#EXTINF:-1,PLAY TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20617
+#EXTINF:-1,PPV 1
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20586
+#EXTINF:-1,PPV 2
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20585
+#EXTINF:-1,PPV 3
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20584
+#EXTINF:-1,PPV 4
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20583
+#EXTINF:-1,PPV 5
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20582
+#EXTINF:-1,PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4333
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6089
+#EXTINF:-1,PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9144
+#EXTINF:-1,PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20596
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20599
+#EXTINF:-1,PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4341
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6093
+#EXTINF:-1,PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8149
+#EXTINF:-1,PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20595
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20615
+#EXTINF:-1,PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4340
+#EXTINF:-1,PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4332
+#EXTINF:-1,PRIME BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20587
+#EXTINF:-1,RAI ITALIA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20581
+#EXTINF:-1,RBI SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20580
+#EXTINF:-1,RBS TV PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6942
+#EXTINF:-1,RCI SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20579
+#EXTINF:-1,REAL MADRID TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6183
+#EXTINF:-1,RECORD TV ATALAIA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24751
+#EXTINF:-1,RECORD FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13183
+#EXTINF:-1,RECORD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7836
+#EXTINF:-1,RECORD HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20571
+#EXTINF:-1,RECORD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4423
+#EXTINF:-1,RECORD SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20572
+#EXTINF:-1,RECORD PARANA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/18148
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/18168
+#EXTINF:-1,RECORD SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/18153
+#EXTINF:-1,RECORD TV GOIAS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/18151
+#EXTINF:-1,RECORD ES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6817
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25543
+#EXTINF:-1,RECORD RS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25017
+#EXTINF:-1,RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10255
+#EXTINF:-1,RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6941
+#EXTINF:-1,RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20557
+#EXTINF:-1,REDE BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4421
+#EXTINF:-1,REDE BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20573
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6940
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20574
+#EXTINF:-1,REDE TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4420
+#EXTINF:-1,REDE TV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20575
+#EXTINF:-1,REDE TV RS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25304
+#EXTINF:-1,REDE VIDA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6939
+#EXTINF:-1,REDE VIDA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20576
+#EXTINF:-1,RIT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20578
+#EXTINF:-1,SBT ARACAJU HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24753
 #EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18569
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6889
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20554
 #EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18570
-#EXTINF:-1,SBT SP Interior SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18568
-#EXTINF:-1,Sony FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18850
-#EXTINF:-1,Sony HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18714
-#EXTINF:-1,Sony SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18715
-#EXTINF:-1,Space FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18802
-#EXTINF:-1,Space HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18564
-#EXTINF:-1,Space SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18565
-#EXTINF:-1,SporTV 2 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18763
-#EXTINF:-1,SporTV 2 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18561
-#EXTINF:-1,SporTV 2 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18562
-#EXTINF:-1,SporTV 3 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18762
-#EXTINF:-1,SporTV 3 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18559
-#EXTINF:-1,SporTV 3 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18560
-#EXTINF:-1,SporTV FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18761
-#EXTINF:-1,SporTV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18558
-#EXTINF:-1,SporTV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18563
-#EXTINF:-1,Studio Universal FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18801
-#EXTINF:-1,Studio Universal HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18556
-#EXTINF:-1,Studio Universal SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18557
-#EXTINF:-1,Syfy FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18800
-#EXTINF:-1,Syfy HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18566
-#EXTINF:-1,Syfy SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18567
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18799
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4331
+#EXTINF:-1,SBT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20555
+#EXTINF:-1,SBT JORNAL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24956
+#EXTINF:-1,SBT PARANA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24925
+#EXTINF:-1,SBT SC HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24923
+#EXTINF:-1,SBT PE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20552
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25303
+#EXTINF:-1,SBT PI FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13182
+#EXTINF:-1,SBT PI HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24755
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25544
+#EXTINF:-1,SBT GO HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6931
+#EXTINF:-1,SIC INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20525
+#EXTINF:-1,SPACE FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13197
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6085
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20532
+#EXTINF:-1,SPACE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4328
+#EXTINF:-1,SPACE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20533
+#EXTINF:-1,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11539
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6084
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20540
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4326
+#EXTINF:-1,SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20541
+#EXTINF:-1,SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11538
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6083
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20536
+#EXTINF:-1,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4325
+#EXTINF:-1,SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20537
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11563
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6082
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20544
+#EXTINF:-1,SPORTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4327
+#EXTINF:-1,SPORTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20545
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13194
+#EXTINF:-1,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7874
+#EXTINF:-1,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20546
+#EXTINF:-1,STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4324
+#EXTINF:-1,STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20547
+#EXTINF:-1,SUNDANCE TV HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20524
+#EXTINF:-1,SYFY FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13195
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7795
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20550
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4323
+#EXTINF:-1,SYFY SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20551
 #EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18554
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/7873
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20521
 #EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18555
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4322
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20522
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11003
 #EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18553
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18797
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18538
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4321
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20496
+#EXTINF:-1,TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8141
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6080
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20517
+#EXTINF:-1,TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4320
+#EXTINF:-1,TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20518
+#EXTINF:-1,TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8143
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10247
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20513
+#EXTINF:-1,TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4319
+#EXTINF:-1,TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20514
+#EXTINF:-1,TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11561
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6079
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20509
+#EXTINF:-1,TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4318
+#EXTINF:-1,TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20510
+#EXTINF:-1,TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8144
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6078
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20505
+#EXTINF:-1,TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4317
+#EXTINF:-1,TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20506
+#EXTINF:-1,TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/8140
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6077
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20501
+#EXTINF:-1,TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4316
+#EXTINF:-1,TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20502
+#EXTINF:-1,TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/25016
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6076
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20497
+#EXTINF:-1,TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4315
+#EXTINF:-1,TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20498
+#EXTINF:-1,TERRA VIVA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6936
+#EXTINF:-1,TERRA VIVA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20471
+#EXTINF:-1,OFF FHD(DUAL AULDIO)
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/9152
 #EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18539
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4313
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24786
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20520
 #EXTINF:-1,TNT FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18796
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13181
 #EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18536
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6074
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20493
 #EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18537
-#EXTINF:-1,TNT Series FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18795
-#EXTINF:-1,TNT Series HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18534
-#EXTINF:-1,TNT Series SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18535
-#EXTINF:-1,TV Aparecida SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18530
-#EXTINF:-1,TV Brasil SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18529
-#EXTINF:-1,TV Camara SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18528
-#EXTINF:-1,TV Cultura FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18752
-#EXTINF:-1,TV Cultura HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18505
-#EXTINF:-1,TV Cultura SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18506
-#EXTINF:-1,TV Escola SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18527
-#EXTINF:-1,TV Gazeta SP HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18526
-#EXTINF:-1,TV Justica SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18531
-#EXTINF:-1,TV Ra-Tim-Bum FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18793
-#EXTINF:-1,TV Ra-Tim-Bum HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18524
-#EXTINF:-1,TV Ra-Tim-Bum SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18525
-#EXTINF:-1,TV Senado SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18532
-#EXTINF:-1,Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18760
-#EXTINF:-1,Telecine Action HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18551
-#EXTINF:-1,Telecine Action SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18552
-#EXTINF:-1,Telecine Cult FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18798
-#EXTINF:-1,Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18549
-#EXTINF:-1,Telecine Cult SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18550
-#EXTINF:-1,Telecine Fun FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18759
-#EXTINF:-1,Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18547
-#EXTINF:-1,Telecine Fun SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18548
-#EXTINF:-1,Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18758
-#EXTINF:-1,Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18545
-#EXTINF:-1,Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18546
-#EXTINF:-1,Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18757
-#EXTINF:-1,Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18543
-#EXTINF:-1,Telecine Premium SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18544
-#EXTINF:-1,Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18756
-#EXTINF:-1,Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18541
-#EXTINF:-1,Telecine Touch SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18542
-#EXTINF:-1,Terra Viva SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18540
-#EXTINF:-1,Tooncast SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18533
-#EXTINF:-1,TruTV FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18794
-#EXTINF:-1,TruTV HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18522
-#EXTINF:-1,TruTV SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18523
-#EXTINF:-1,Universal Channel FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18792
-#EXTINF:-1,Universal Channel HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18520
-#EXTINF:-1,Universal Channel SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18521
-#EXTINF:-1,VH1 FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18791
-#EXTINF:-1,VH1 HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18518
-#EXTINF:-1,VH1 MegaHits SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18517
-#EXTINF:-1,VH1 SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18519
-#EXTINF:-1,Viva FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18755
-#EXTINF:-1,Viva HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18515
-#EXTINF:-1,Viva SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18516
-#EXTINF:-1,Warner Channel FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18790
-#EXTINF:-1,Warner Channel HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18513
-#EXTINF:-1,Warner Channel SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18514
-#EXTINF:-1,Woohoo FHD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18789
-#EXTINF:-1,Woohoo HD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18511
-#EXTINF:-1,Woohoo SD
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/18512
-#EXTINF:-1,[24H] Aladdin
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19223
-#EXTINF:-1,[24H] As Meninas Superpoderosas
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19222
-#EXTINF:-1,[24H] As Tartarugas Ninjas
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19221
-#EXTINF:-1,[24H] Ben 10
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19219
-#EXTINF:-1,[24H] Bob Esponja
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19220
-#EXTINF:-1,[24H] Caverna do Dragao
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19216
-#EXTINF:-1,[24H] Chaves
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19218
-#EXTINF:-1,[24H] Chaves Desenho Animado
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19217
-#EXTINF:-1,[24H] Coragem - O Cao Covarde
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19215
-#EXTINF:-1,[24H] Dennis - O Pimentinha
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19214
-#EXTINF:-1,[24H] Digimon
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19213
-#EXTINF:-1,[24H] Dois Homens e Meio
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19212
-#EXTINF:-1,[24H] Dragon Ball Super
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19179
-#EXTINF:-1,[24H] Dragon Ball Z
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19211
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19177
-#EXTINF:-1,[24H] Galinha Pintadinha
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19210
-#EXTINF:-1,[24H] Gospel Cartoon
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19209
-#EXTINF:-1,[24H] He-Man
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19208
-#EXTINF:-1,[24H] Historias da Disney
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19207
-#EXTINF:-1,[24H] Homem-Aranha
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19206
-#EXTINF:-1,[24H] Jaspion
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19205
-#EXTINF:-1,[24H] Jiraya
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19204
-#EXTINF:-1,[24H] Medabots
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19203
-#EXTINF:-1,[24H] Naruto
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19202
-#EXTINF:-1,[24H] Naruto Shippuden
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19201
-#EXTINF:-1,[24H] O Inspertor
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19200
-#EXTINF:-1,[24H] O Maskara
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19199
-#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19197
-#EXTINF:-1,[24H] Os Flintstones
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19196
-#EXTINF:-1,[24H] Os Simpsons
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19195
-#EXTINF:-1,[24H] Papa-Leguas
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19176
-#EXTINF:-1,[24H] Pernalonga
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19194
-#EXTINF:-1,[24H] Phineas e Ferb
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19193
-#EXTINF:-1,[24H] Pica-Pau
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19192
-#EXTINF:-1,[24H] Rambo
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19191
-#EXTINF:-1,[24H] Scooby Doo
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19190
-#EXTINF:-1,[24H] South Park
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19189
-#EXTINF:-1,[24H] Steven Universo
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19188
-#EXTINF:-1,[24H] Tesouros da Disney
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19187
-#EXTINF:-1,[24H] Thundercats
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19178
-#EXTINF:-1,[24H] Timao e Pumba
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19186
-#EXTINF:-1,[24H] Todo Mundo Odeia o Chris
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19185
-#EXTINF:-1,[24H] Tom e Jerry
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19184
-#EXTINF:-1,[24H] Um Maluco no Pedaço
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19183
-#EXTINF:-1,[24H] Ursinhos Carinhosos
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19182
-#EXTINF:-1,[24H] X-Men
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19181
-#EXTINF:-1,[24H] Yu-Gi-Oh!
-plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/CaS01XxWvu4/6879304603/19180
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4312
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20494
+#EXTINF:-1,TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13186
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6073
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20489
+#EXTINF:-1,TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4311
+#EXTINF:-1,TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20490
+#EXTINF:-1,TOONCAST HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20485
+#EXTINF:-1,TOONCAST SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4310
+#EXTINF:-1,TOONCAST SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20486
+#EXTINF:-1,TRUTV SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6935
+#EXTINF:-1,TV APARECIDA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4438
+#EXTINF:-1,TV BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4442
+#EXTINF:-1,TV BRASIL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20482
+#EXTINF:-1,TV CAMARA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10245
+#EXTINF:-1,TV CAMARA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20483
+#EXTINF:-1,TV CIDADE OESTE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20484
+#EXTINF:-1,TV CLIMATEMPO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20478
+#EXTINF:-1,TV CULTURA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4412
+#EXTINF:-1,TV CULTURA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20473
+#EXTINF:-1,TV DIARIO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4411
+#EXTINF:-1,TV ESCOLA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/5975
+#EXTINF:-1,TV ESCOLA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20477
+#EXTINF:-1,TV ESPANHA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20470
+#EXTINF:-1,TV EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6206
+#EXTINF:-1,TV GAZETA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20472
+#EXTINF:-1,TV JUSTICA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/5970
+#EXTINF:-1,TV JUSTICA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20475
+#EXTINF:-1,TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6933
+#EXTINF:-1,TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20476
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/24787
+#EXTINF:-1,TV SENADO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10246
+#EXTINF:-1,TV5 MONDE SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6178
+#EXTINF:-1,TVE HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4440
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/13192
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/5987
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20464
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4308
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20465
+#EXTINF:-1,VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10361
+#EXTINF:-1,VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20459
+#EXTINF:-1,VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/10243
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6848
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20460
+#EXTINF:-1,VIVA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6928
+#EXTINF:-1,VIVA SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20461
+#EXTINF:-1,WARNER CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/11525
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/6072
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20456
+#EXTINF:-1,WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4307
+#EXTINF:-1,WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20457
+#EXTINF:-1,WOOHOO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/4306
+#EXTINF:-1,WOOHOO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20453
+#EXTINF:-1,ZOOMOO SD
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/1515/1515/20450
